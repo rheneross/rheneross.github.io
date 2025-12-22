@@ -1,1 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://rheneross.com">
+    <title>Digital Garden</title>
+    <link href="https://rheneross.com/feed.xml" rel="self" />
+    <link href="https://rheneross.com" />
+    <updated>2025-12-22T15:29:11Z</updated>
+    <id>https://rheneross.com</id>
+        <entry>
+            <title>
+                rheneross
+                
+            </title>
+            <updated>2025-12-22T15:29:00Z</updated>
+            <id>https://rheneross.com/</id>
+            <content type="html">
+                &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
+&lt;p&gt;I’m a software engineer, working mostly on games, backend services and cloud infrastructures.&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/" />
+        </entry>
+</feed>
 
