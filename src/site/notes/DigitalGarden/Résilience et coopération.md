@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/resilience-et-cooperation/","title":"🇫🇷 Résilience et coopération"}
+{"dg-publish":true,"permalink":"/digital-garden/resilience-et-cooperation/","title":"🇫🇷 Résilience et coopération","tags":["economics","french"]}
 ---
 
 *Un autre modèle pour le jeu vidéo indépendant*  
