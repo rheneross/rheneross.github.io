@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgShowLocalGraph":"false"}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":"false"}
 ---
 
 Hey I’m Thibaud!
