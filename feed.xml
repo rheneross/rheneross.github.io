@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://rheneross.com">
-    <title>Digital Garden</title>
+    <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-22T16:17:00Z</updated>
+    <updated>2025-12-22T21:36:13Z</updated>
     <id>https://rheneross.com</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-12-22T16:16:51Z</updated>
+            <updated>2025-12-22T21:36:00Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
