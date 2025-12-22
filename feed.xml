@@ -3,71 +3,14 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-22T22:12:53Z</updated>
+    <updated>2025-12-22T22:15:55Z</updated>
     <id>https://rheneross.com</id>
-        <entry>
-            <title>
-                Résilience et coopération
-                
-            </title>
-            <updated>2025-12-22T22:12:43Z</updated>
-            <id>https://rheneross.com/digital-garden/resilience-et-cooperation/</id>
-            <content type="html">
-                &lt;p&gt;&lt;em&gt;Un autre modèle pour le jeu vidéo indépendant&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Hello à tous,&lt;/p&gt;
-&lt;p&gt;J&#39;espère que vous allez bien !&lt;/p&gt;
-&lt;p&gt;🎵 Avant de démarrer la lecture, mettez vous dans l&#39;ambiance et allumez donc &lt;a href=&quot;https://www.youtube.com/watch?v=6MAzUT1YhWE&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fred again.. - Rooftop Live (Arun’s Roof, London)&lt;/a&gt;, c&#39;était le diamant dans mes oreilles pendant l&#39;écriture de cette lettre.&lt;/p&gt;
-&lt;p&gt;C&#39;est bon ? Alors c&#39;est parti 🙂&lt;/p&gt;
-&lt;p&gt;Dans mon article précédent, &lt;a href=&quot;https://rheneross.com/2024_10_17.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rethinking collaboration models&lt;/a&gt;, je parlais déjà vaguement des tiers-lieux comme d&#39;une solution pour l&#39;industrie vidéoludique, je vais ici essayer d&#39;étayer mon propos et d&#39;imaginer une construction possible pour le futur. N’étant aucunement économiste, prenez ceci avec des grosses pincettes, des pinces quoi !&lt;/p&gt;
-&lt;h2 id=&quot;l-industrie-du-jeu-video&quot; tabindex=&quot;-1&quot;&gt;L&#39;industrie du jeu vidéo&lt;/h2&gt;
-&lt;h3 id=&quot;la-nouvelle-crise&quot; tabindex=&quot;-1&quot;&gt;La nouvelle crise&lt;/h3&gt;
-&lt;p&gt;Vous n&#39;êtes pas sans savoir que, depuis 2022, l&#39;industrie du jeu vidéo ne se porte pas bien, mais alors pas bien du tout. Enfin, uniquement sur le plan social, parce que niveau revenus, c&#39;est toujours la fête. Konbini en a fait un petit résumé récemment.&lt;/p&gt;
-&lt;p&gt;Les causes de cette énième crise sont multiples : taux d&#39;intérêts historiquement haut, investissements nécessaires grandissant, temps de développement de plus en plus long et réajustement des usages à la sortie de la crise COVID.&lt;/p&gt;
-&lt;p&gt;Au final, là où le capitalisme cherche le profit à toujours plus court terme, on a l&#39;impression que les besoins de l&#39;industrie du jeu vidéo, notamment des grosses productions, sont complètement à contre-courant.&lt;/p&gt;
-&lt;h3 id=&quot;des-petits-jeux&quot; tabindex=&quot;-1&quot;&gt;Des petits jeux&lt;/h3&gt;
-&lt;p&gt;La solution paraît donc évidente : allons vers des productions plus petites, qui demandent moins d&#39;investissements, donc moins de risques, et dont on peut récolter les fruits plus rapidement. Plusieurs développeurs prônent cette solution, notamment &lt;a href=&quot;https://www.reddit.com/r/gamedev/comments/1efyve7/why_i_absolutely_love_making_small_games_and_why/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;le créateur de Minami Lane, ici en anglais sur reddit&lt;/a&gt; :&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La plupart des jeux ne se vendent pas. Lorsqu&#39;un éditeur investit 300k dans un petit jeu indé, il ne pense pas réellement que ce jeu ait une grande chance de rapporter plus de 300k. Il croit que parmi les 10 jeux qu&#39;il a signés, l&#39;un d&#39;eux va exploser et compenser tous ceux qui n&#39;auront vendu que quelques exemplaires. En tant qu&#39;indé ou petite équipe, vous prenez le même risque. Et si vous devez faire 10 jeux pour lisser ce risque, c&#39;est bien plus faisable si ces jeux prennent 3 mois à réaliser plutôt que 3 ans.&lt;br /&gt;
-— &lt;cite&gt;Traduit de la publication reddit de &lt;a href=&quot;https://www.reddit.com/user/GoDorian&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;u/GoDorian&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Je suis complètement d&#39;accord avec eux et j&#39;aimerais même aller un plus loin et voir comment on pourrait améliorer encore cette résilience. Plutôt que de lisser le risque sur 10 jeux, ne pourrait-on pas s&#39;associer avec des porteurs de projets différents, et atténuer les risques de chacun sur, par exemple, 3 jeux, deux projets agricoles et un projet de co-living ?&lt;/p&gt;
-&lt;h2 id=&quot;vers-un-autre-modele&quot; tabindex=&quot;-1&quot;&gt;Vers un autre modèle&lt;/h2&gt;
-&lt;h3 id=&quot;cooperer&quot; tabindex=&quot;-1&quot;&gt;Coopérer&lt;/h3&gt;
-&lt;p&gt;Cette diversité d&#39;activité, on peut notamment la trouver dans les tiers-lieux, ces espaces partagés, dans lesquels coopèrent des citoyens engagés. Il en existait 3500 en France en 2023 selon &lt;a href=&quot;https://francetierslieux.fr/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;France Tiers-Lieux&lt;/a&gt;, avec une projection à 5000 pour 2025.&lt;/p&gt;
-&lt;p&gt;La résilience n&#39;est pas inhérente à l&#39;espace lui-même mais, si celui-ci propose un atelier d&#39;artistes, un laboratoire partagé, un espace d&#39;expérimentations agricole ou encore d&#39;accueillir du public, il va attirer et mélanger des projets différents qui pourront, selon le cadre légal choisi, lisser le risque encouru par chacun. Cette coopération favorise également la créativité, chacun s’inspirant des différentes disciplines présentes.&lt;/p&gt;
-&lt;p&gt;Dans l&#39;&lt;a href=&quot;https://www.youtube.com/watch?v=KnpDxDV1SH4&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;interview d’Eloi Laurent, par Paloma Moritz&lt;/a&gt;, qui revient sur son livre &lt;a href=&quot;https://www.ruedelechiquier.net/essais/486-cooperer-et-se-faire-confiance.html&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Coopérer et se faire confiance par tous les temps&lt;/a&gt;, il est question de l&#39;importance essentielle de la coopération. Pour l&#39;économiste c&#39;est même, avec la Santé, l&#39;un des deux besoins humains fondamentaux. Il la définit comme la capacité unique des êtres humains à s&#39;associer pour réaliser des désirs et satisfaire des besoins, dans le temps long, au-delà d&#39;un rapport coût bénéfice.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La santé, au fond, c&#39;est ce qui nous relie à tous les autres vivants. La coopération, c&#39;est ce qui nous en distingue.&lt;br /&gt;
-— &lt;cite&gt;Eloi Laurent&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Coopérer, ce n’est pas simplement collaborer pour produire. Ce n’est pas simplement une opération à somme nulle qui reviendrait à échanger son temps contre de la valeur. C’est construire ensemble des solutions à différents problèmes, où chacun repart avec plus que ce qu’il a apporté, que ce soit de la stabilité, de l’inspiration, ou simplement de la matière à réflexion.&lt;/p&gt;
-&lt;h3 id=&quot;une-construction-sociale-durable&quot; tabindex=&quot;-1&quot;&gt;Une construction sociale durable&lt;/h3&gt;
-&lt;p&gt;En en parlant autour de moi, on m’a opposé à ce partage des risques par la coopération la différence de valeur entre des activités. “Pourquoi le développeur qui sort un hit devrait gagner autant que celui qui n’en a pas eu ?&amp;quot;. Ma réponse primaire c’est de dire qu’il n’en a pas encore eu, et que, avec un peu de chance, le second en sortira un encore plus gros.&lt;/p&gt;
-&lt;p&gt;Mais en fait ce n’est pas le sujet. En ayant ce genre de discours, on évalue la valeur du travail avec celle du produit final. Hors, la valeur devrait être évaluée par l’acte lui-même du travail et même plus encore, attachée à la personne même qui effectue le travail.&lt;/p&gt;
-&lt;p&gt;Cette idée n’est pas de moi, c’est le principe du salaire à la personne de Bernard Friot : à partir de la majorité, chacun aurait le droit à un salaire à vie, en fonction de son grade, peu importe son travail. Je vous invite à regarder &lt;a href=&quot;https://www.youtube.com/watch?v=G8qV4InhebQ&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;son interview par Salomé Saqué&lt;/a&gt; portant sur &lt;a href=&quot;https://ladispute.fr/catalogue/le-communisme-qui-vient&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Le communisme qui vient&lt;/a&gt;, son nouveau livre coécrit avec le philosophe Bernard Vasseur.&lt;/p&gt;
-&lt;h3 id=&quot;les-societes-cooperatives-de-production&quot; tabindex=&quot;-1&quot;&gt;Les sociétés coopératives de production&lt;/h3&gt;
-&lt;p&gt;On peut s’inspirer du salaire à la personne pour penser un nouveau modèle de rémunération dans une entreprise. On pourrait ainsi définir des grades dans les statuts et le conseil d’administration pourrait revisiter annuellement le salaire qui leur est lié, et déterminer quels sont les employés éligibles à une évolution de grade.&lt;/p&gt;
-&lt;p&gt;Pour que ce soit juste, chaque employé devrait pouvoir prétendre à une voix, et une seule, au conseil d’administration, et personne d’autre. Il existe déjà des entreprises avec des gouvernances similaires : les scops ou sociétés coopératives de production.&lt;/p&gt;
-&lt;p&gt;Dans la &lt;a href=&quot;https://www.youtube.com/watch?v=FA3IpqdI7k0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;masterclasse de Bastien Sibille&lt;/a&gt;, on apprend que l’ensemble des coopératives représentent plus de 10% du PIB de la France en 2022 et, qu’en plus d’être démocratiques, elles présentent un autre avantage non négligeable : les dividendes octroyés aux sociétaires y sont limités, en effet, la loi impose que 57,5% du résultat net soit affecté aux réserves impartageables.&lt;/p&gt;
-&lt;p&gt;Ce modèle remet la gouvernance de l’entreprise, des moyens de production, dans les mains des employés, ce qui permet, selon moi, de répondre aux incertitudes de notre époque.&lt;/p&gt;
-&lt;p&gt;À celle du temps court, du besoin immédiat, de la nourriture et de l’énergie, qui a débuté avec l’invasion de l’Ukraine par la Russie, on y répond par un salaire égal pour tous, exempt du vampirisme des actionnaires. On y répond par une plus grande résilience, une production diverse et locale et la coopération de tous.&lt;/p&gt;
-&lt;p&gt;À celle du temps long, de la projection dans l’avenir et de l’apocalypse climatique qui vient, on y répond en donnant aux travailleurs le choix de leur action, et de pouvoir diriger leur entreprise vers l’avenir auquel ils aspirent.&lt;/p&gt;
-&lt;h2 id=&quot;conclusion&quot; tabindex=&quot;-1&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Pour conclure, j’aimerais revenir sur les tiers-lieux, car se sont aussi de formidables lieux de transmission. Accueillir du public, notamment des écoles, peut être un excellent moyen de faire découvrir les métiers représentés, mais également de montrer qu’une autre construction sociale est possible, qu’elle fonctionne et qu’elle existe même près de chez-eux.&lt;/p&gt;
-&lt;p&gt;Je suis certain que la coopération est la clé d’une résilience généralisée, mais aussi que d’autres modèles sont à explorer. N’hésitez donc pas à me partager vos retours, vos suggestions et vos pistes de réflexion, je les attends avec impatience !&lt;/p&gt;
-&lt;p&gt;Merci de m’avoir lu jusqu’au bout !&lt;/p&gt;
-&lt;p&gt;À très vite,&lt;br /&gt;
-Thibaud&lt;/p&gt;
-
-            </content>
-            <link href="https://rheneross.com/digital-garden/resilience-et-cooperation/" />
-        </entry>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-12-22T22:12:43Z</updated>
+            <updated>2025-12-22T22:15:44Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
@@ -86,10 +29,10 @@ Thibaud&lt;/p&gt;
                 Economics
                 
             </title>
-            <updated>2025-12-22T22:12:43Z</updated>
+            <updated>2025-12-22T22:15:44Z</updated>
             <id>https://rheneross.com/digital-garden/economics/</id>
             <content type="html">
-                &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/digital-garden/resilience-et-cooperation/&quot;&gt;Résilience et coopération&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Résilience et coopération&lt;/a&gt;&lt;/p&gt;
 
             </content>
             <link href="https://rheneross.com/digital-garden/economics/" />
