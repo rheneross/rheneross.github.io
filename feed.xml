@@ -3,14 +3,14 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-23T10:40:29Z</updated>
+    <updated>2025-12-23T12:16:25Z</updated>
     <id>https://rheneross.com</id>
         <entry>
             <title>
                 Validating Your Game Design
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/validating-your-game-design/</id>
             <content type="html">
                 &lt;p&gt;My notes on the talk &lt;a href=&quot;https://www.youtube.com/watch?v=3Sfa8PbEE3U&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Validating Your Game Design: Ways to confirm the potential of your game idea before launch&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/athanateus.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Oscar Clark&lt;/a&gt;&lt;/p&gt;
@@ -192,7 +192,7 @@ Purchase experience is satisfying&lt;/p&gt;
                 Using Analytics to Create Viral Games
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/using-analytics-to-create-viral-games/</id>
             <content type="html">
                 &lt;p&gt;My note on the video &lt;a href=&quot;https://www.youtube.com/watch?v=5m2umPx5774&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Using Analytics to Create Viral Games&lt;/a&gt; by Gavin Eisenbeisz&lt;/p&gt;
@@ -298,10 +298,33 @@ Nuance because sometimes the content creator will do the voice adapted to their 
         </entry>
         <entry>
             <title>
+                The Reverse Centaur’s Guide to Criticizing AI
+                
+            </title>
+            <updated>2025-12-23T12:16:09Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/the-reverse-centaur-s-guide-to-criticizing-ai/</id>
+            <content type="html">
+                &lt;p&gt;Some &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#quotes&quot;&gt;#quotes&lt;/a&gt; from the article &lt;a href=&quot;https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;The Reverse Centaur’s Guide to Criticizing AI&lt;/a&gt; by &lt;a href=&quot;https://craphound.com/bio/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Corry Doctorow&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&#39;m not saying that tech bosses are making bets they don&#39;t plan on winning. But I am saying that winning the bet – creating a viable metaverse – is the secondary goal. The primary goal is to keep the market convinced that your company will continue to grow, and to remain convinced until the next bubble comes along.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;And if the AI misses a tumor, this will be the human &lt;em&gt;radiologist&#39;s&lt;/em&gt; fault, because they are the &#39;human in the loop.&#39; It&#39;s their signature on the diagnosis.&amp;quot;&lt;/p&gt;
+&lt;p&gt;This is a reverse centaur, and it&#39;s a specific kind of reverse-centaur: it&#39;s what Dan Davies calls an &amp;quot;accountability sink.&amp;quot; The radiologist&#39;s job isn&#39;t really to oversee the AI&#39;s work, it&#39;s to take the blame for the AI&#39;s mistakes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To pop the bubble, we have to hammer on the forces that created the bubble: the myth that AI can do your job, especially if you get high wages that your boss can claw back; the understanding that growth companies &lt;em&gt;need&lt;/em&gt; a succession of ever-more-outlandish bubbles to stay alive; the fact that workers and the public they serve are on one side of this fight, and bosses and their investors are on the other side.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/the-reverse-centaur-s-guide-to-criticizing-ai/" />
+        </entry>
+        <entry>
+            <title>
                 The Basics of Founding a Successful Games Company
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/the-basics-of-founding-a-successful-games-company/</id>
             <content type="html">
                 &lt;p&gt;My notes on the GDC 2023 Talk &lt;a href=&quot;https://www.youtube.com/watch?v=zFkZ0vxB51Y&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Indie Starter Kit: The Basics of Founding a Successful Games Company&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/dinop.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dino Patti&lt;/a&gt;&lt;/p&gt;
@@ -409,7 +432,7 @@ Nuance because sometimes the content creator will do the voice adapted to their 
                 Sink or Swim - How to Build and Validate AA Games Fast
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/sink-or-swim-how-to-build-and-validate-aa-games-fast/</id>
             <content type="html">
                 &lt;p&gt;My notes on the GDC 2024 Talk &lt;a href=&quot;https://www.youtube.com/watch?v=4ha0UHvCmKU&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sink or Swim: How to Build and Validate AA Games Fast&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/car2n.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Carina Kom&lt;/a&gt;&lt;/p&gt;
@@ -513,7 +536,7 @@ To be prepare&lt;/p&gt;
                 Le communisme qui vient
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/</id>
             <content type="html">
                 &lt;p&gt;De Bernard Friot et Bernard Vasseur&lt;/p&gt;
@@ -537,7 +560,7 @@ Propriété patrimonial des moyens de productions aux entités territoriales com
                 LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/la-ferme-100-autonome-en-eau-viande-legumes-plantes-aromatiques-et-perpetuelles/</id>
             <content type="html">
                 &lt;p&gt;Mes notes sur la vidéo &lt;a href=&quot;https://www.youtube.com/watch?v=iF3O2TSheXI&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles&lt;/a&gt; de l&#39;ArchiPelle.&lt;/p&gt;
@@ -693,7 +716,7 @@ Mouton - Race: Solognote&lt;/p&gt;
                 How to find amazing game ideas
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/how-to-find-amazing-game-ideas/</id>
             <content type="html">
                 &lt;p&gt;My notes on the &lt;a href=&quot;https://www.youtube.com/watch?v=0m60QbT85Tc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;How to find amazing game ideas&lt;/a&gt; GMTK&#39;s video.&lt;/p&gt;
@@ -842,7 +865,7 @@ The only way to know for sure is to build a prototype.&lt;/p&gt;
                 How Xalavier Nelson does it
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/how-xalavier-nelson-does-it/</id>
             <content type="html">
                 &lt;p&gt;My notes on the &lt;a href=&quot;https://aftermath.site/xalavier-nelson-interview-strange-scaffold-el-paso-teenage-mutant-ninja-turtles&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;How Xalavier Nelson Does It&lt;/a&gt; Aftermath article.&lt;/p&gt;
@@ -880,7 +903,7 @@ When I notice that someone has a working pattern [...] We have conversations ins
                 Don&#39;t ship the wrong game
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/don-t-ship-the-wrong-game/</id>
             <content type="html">
                 &lt;p&gt;My notes from the &lt;a href=&quot;https://youtu.be/fKJDv8NI9T0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;talk&lt;/a&gt; &lt;a href=&quot;https://bsky.app/profile/bippinbits.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;René Habermann&lt;/a&gt; gave at GameCamp 2025.&lt;/p&gt;
@@ -1039,7 +1062,7 @@ Feedbacks:&lt;/p&gt;
                 Ask Iwata
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/ask-iwata/</id>
             <content type="html">
                 &lt;p&gt;I didn&#39;t take any notes at the start of the book, but I&#39;m going to save some &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#quotes&quot;&gt;#quotes&lt;/a&gt; here.&lt;/p&gt;
@@ -1069,7 +1092,7 @@ p.63&lt;/p&gt;
                 ALUOigrice 1.3 – Stuffed Wombat
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/</id>
             <content type="html">
                 &lt;p&gt;This is my notes on the &lt;a href=&quot;https://www.youtube.com/watch?v=b0E4z56vhOc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;talk&lt;/a&gt; &lt;a href=&quot;https://bsky.app/profile/stuffedwomb.at&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stuffed Wombat&lt;/a&gt; gave at ALUOigrice.&lt;/p&gt;
@@ -1129,7 +1152,7 @@ Success is releasing a game.&lt;/p&gt;
                 360 no-SCOP tips &amp; tricks de survie en CO-OP
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/</id>
             <content type="html">
                 &lt;p&gt;Mes notes sur la conférence &lt;a href=&quot;https://www.youtube.com/watch?v=hhdeguTChDY&amp;amp;list=WL&amp;amp;index=1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt; donnée par Thaïs Arias &amp;amp; Jean Nicolas à l&#39;addon 2025.&lt;/p&gt;
@@ -1248,10 +1271,76 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
         </entry>
         <entry>
             <title>
+                Thinking at the age of LLM
+                
+            </title>
+            <updated>2025-12-23T12:16:09Z</updated>
+            <id>https://rheneross.com/notes/thinking-at-the-age-of-llm/</id>
+            <content type="html">
+                &lt;h2 id=&quot;ll-ms-can-t-help-you-think&quot; tabindex=&quot;-1&quot;&gt;LLMs can&#39;t help you think&lt;/h2&gt;
+&lt;p&gt;LLMs to me, looks like a car for your mind. Sure, you can go further and faster, but if you start using it for every little errand, you&#39;ll end-up sacrificing your physical health, and, in the case of LLMs, your thinking capabilities.&lt;/p&gt;
+&lt;p&gt;Also, I saw some discussions about how LLMs can help you get better ideas. I don&#39;t buy that. Given how they work, they can only help you get the most probable, generic idea.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But now, when my brain spontaneously forms a tiny sliver of a potentially interesting concept or idea, I can just shove a few sloppy words into a prompt and almost instantly get a fully reasoned, researched, and completed thought. Minimal organic thinking required. This has had a dramatic and profound effect on my brain. My thinking systems have atrophied, and I can feel it–I can sense my slightly diminishing intuition, cleverness, and rigor. And because AI can so easily flesh out ideas, I feel less inclined to share my thoughts–no matter how developed.&lt;br /&gt;
+Dustin Curtis - &lt;a href=&quot;https://dcurt.is/thinking&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://dcurt.is/thinking&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;because [copilote autocomplete] happens as I&#39;m typing, before I know what I thought and I&#39;m ready to hand-off the rest, it happens while I&#39;m still thinking, so now, all of the sudden, I&#39;m being thoughts-jammed. Now I&#39;m evaluating what it did before finishing my own thought.&lt;br /&gt;
+&lt;a href=&quot;https://bsky.app/profile/adamcoster.com&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Adam Coster&lt;/a&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=0KEPoACk2Fw&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Coffee with Butterscotch ep520&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;gen-ai-can-t-help-you-create&quot; tabindex=&quot;-1&quot;&gt;GenAI can&#39;t help you create&lt;/h2&gt;
+&lt;p&gt;Why would you want to give away what makes us human?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GenAI is like self-licking ice-cream: its replacing human doing creative endeavor (writing/art/programing). What&#39;s the point of an ice cream that is licking itself? What the point of art being made by itself?&lt;br /&gt;
+Seth Coster - &lt;a href=&quot;https://www.youtube.com/watch?v=n17nv1t2MS4&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Coffee with Butterscotch ep529&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Now I let it fall back in the grasses.&lt;br /&gt;
+I hear you. I know this life is hard now.&lt;br /&gt;
+I know your days are precious on this earth.&lt;br /&gt;
+But what are you trying to be free of?&lt;br /&gt;
+The living? The miraculous task of it?&lt;br /&gt;
+Love is for the ones who love the work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Joseph Fasano&lt;/em&gt;, For a student who used AI to write a paper&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And, even if you did, it will not resonate as much with the audience you are trying to reach.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Either way, games as en emotional escape is a meaningful and sometimes necessary experience for many. On a base level we escape somewhere that has no consequences and for a moment of safety where we are in control, and we can be the victorious.&lt;br /&gt;
+And a space, a story, an experience crafted by an unfathomable artificial intelligence, owned by corporations who only value shareholder value. This isn&#39;t safe, this isn&#39;t an escape where we are in control. Its the same fucking reality we already live in.&lt;br /&gt;
+&lt;a href=&quot;https://bsky.app/profile/falconeerdev.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Tomas Sala&lt;/a&gt; - &lt;a href=&quot;https://bsky.app/profile/falconeerdev.bsky.social/post/3lpvidz5suc2r&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;A Bluesky thread about GenAI in Games&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I read on reddit that GenAI works like artists: it steal from other artists. Except artist don&#39;t &amp;quot;Steal&amp;quot;: They study, imitate and take inspirations from the work and the techniques of others, view through their own eyes, through their own prisme of experiences.&lt;/p&gt;
+&lt;p&gt;GenAI is straight up spewing the most probable thing another artist (or worst, an average of other artists) will have done.&lt;/p&gt;
+&lt;h2 id=&quot;ll-ms-can-t-do-your-job&quot; tabindex=&quot;-1&quot;&gt;LLMs can&#39;t do your job&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/the-reverse-centaur-s-guide-to-criticizing-ai/&quot;&gt;The Reverse Centaur’s Guide to Criticizing AI&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/thinking-at-the-age-of-llm/" />
+        </entry>
+        <entry>
+            <title>
+                Linux
+                
+            </title>
+            <updated>2025-12-23T12:16:09Z</updated>
+            <id>https://rheneross.com/notes/linux/</id>
+            <content type="html">
+                &lt;p&gt;I&#39;m using Linux since 2010 on servers, and I had the chance to try various desktop distributions since then.&lt;br /&gt;
+In 2025, I started daily driving CachyOS.&lt;/p&gt;
+&lt;p&gt;With the current hype around Hyprland, I&#39;m often asked why I&#39;m not using a tilling windows manager.&lt;br /&gt;
+I&#39;m working on 3 screens, so my windows are already tilled, each of them maximized on their respective monitor. I always have a terminal on my main screen, and everything is happening here anyway.&lt;/p&gt;
+&lt;p&gt;The plus side of using something mainstream like KDE is that pretty much everything works out of the box.&lt;/p&gt;
+&lt;p&gt;One thing I did like when trying Hyprland is having a monitor dedicated to coms, with Discord, Slack and Signal running on separate workspaces. I could switch workspaces, and thus apps, without moving my mouse.&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/linux/" />
+        </entry>
+        <entry>
+            <title>
                 Garden Todo
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/garden-todo/</id>
             <content type="html">
                 &lt;p&gt;Most of my notes are not yet available, there is still a lot of seeds to sow.&lt;/p&gt;
@@ -1270,10 +1359,11 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Reading Notes
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/garden-reading-notes/</id>
             <content type="html">
                 &lt;ul class=&quot;block-language-dataview&quot;&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/the-reverse-centaur-s-guide-to-criticizing-ai/&quot;&gt;The Reverse Centaur’s Guide to Criticizing AI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/&quot;&gt;ALUOigrice 1.3 – Stuffed Wombat&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/&quot;&gt;Le communisme qui vient&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/how-to-find-amazing-game-ideas/&quot;&gt;How to find amazing game ideas&lt;/a&gt;&lt;/li&gt;
@@ -1295,7 +1385,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Home
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
@@ -1311,7 +1401,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Economics
                 
             </title>
-            <updated>2025-12-23T10:40:17Z</updated>
+            <updated>2025-12-23T12:16:09Z</updated>
             <id>https://rheneross.com/notes/economics/</id>
             <content type="html">
                 &lt;ul class=&quot;block-language-dataview&quot;&gt;
