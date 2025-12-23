@@ -3,14 +3,1043 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-23T09:58:32Z</updated>
+    <updated>2025-12-23T10:40:01Z</updated>
     <id>https://rheneross.com</id>
+        <entry>
+            <title>
+                Validating Your Game Design
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/validating-your-game-design/</id>
+            <content type="html">
+                &lt;p&gt;My notes on the talk &lt;a href=&quot;https://www.youtube.com/watch?v=3Sfa8PbEE3U&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Validating Your Game Design: Ways to confirm the potential of your game idea before launch&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/athanateus.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Oscar Clark&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Presentation mostly Targeted to Live games&lt;br /&gt;
+Some questionable design patterns, in &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/validating-your-game-design/#mechanics&quot;&gt;Validating Your Game Design#Mechanics&lt;/a&gt; for example&lt;/p&gt;
+&lt;h1 id=&quot;direction&quot; tabindex=&quot;-1&quot;&gt;Direction&lt;/h1&gt;
+&lt;h2 id=&quot;what-success-looks-like&quot; tabindex=&quot;-1&quot;&gt;What success looks like?&lt;/h2&gt;
+&lt;p&gt;Pick 3, and put number on them! =&amp;gt; KPI/Metrics&lt;br /&gt;
+It can be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate Ideas&lt;/li&gt;
+&lt;li&gt;Looking for Inner Truth&lt;/li&gt;
+&lt;li&gt;Pure Gameplay&lt;/li&gt;
+&lt;li&gt;Love for Genre&lt;/li&gt;
+&lt;li&gt;Professional Accolade&lt;/li&gt;
+&lt;li&gt;Need to innovate&lt;/li&gt;
+&lt;li&gt;Financial success&lt;/li&gt;
+&lt;li&gt;Market Opportunity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;what-are-you-making&quot; tabindex=&quot;-1&quot;&gt;What are you making&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toy?
+&lt;ul&gt;
+&lt;li&gt;Short term revenue model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Long term investment game?
+&lt;ul&gt;
+&lt;li&gt;Game as a Service?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;understand-you-audience&quot; tabindex=&quot;-1&quot;&gt;Understand you audience&lt;/h2&gt;
+&lt;p&gt;3 Personas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Persona 1 - HOW (Mechanics)
+&lt;ul&gt;
+&lt;li&gt;In love with core mechanics&lt;/li&gt;
+&lt;li&gt;Will continue playing if the game was only the core mechanics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Persona 2 - WHAT (Context)
+&lt;ul&gt;
+&lt;li&gt;need a sense a purpose to continue playing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Persona 3 - WHY (metagame)
+&lt;ul&gt;
+&lt;li&gt;Social component&lt;/li&gt;
+&lt;li&gt;Livestyle / Daily routine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;=&amp;gt; Targetable audience&lt;br /&gt;
+Everything needs to be build in the design&lt;/p&gt;
+&lt;h2 id=&quot;design&quot; tabindex=&quot;-1&quot;&gt;Design&lt;/h2&gt;
+&lt;h3 id=&quot;loops&quot; tabindex=&quot;-1&quot;&gt;Loops&lt;/h3&gt;
+&lt;h4 id=&quot;mechanics&quot; tabindex=&quot;-1&quot;&gt;Mechanics&lt;/h4&gt;
+&lt;p&gt;Think about the emotional journey of the player&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Start condition&lt;br /&gt;
+Does the player enter the game in a relaxed state? Does he enter the game with anticipation&lt;/li&gt;
+&lt;li&gt;Challenge&lt;br /&gt;
+Are we introducing a sense of tension?&lt;/li&gt;
+&lt;li&gt;Resolution&lt;br /&gt;
+Move away from anticipation toward FOMO&lt;/li&gt;
+&lt;li&gt;Reward&lt;br /&gt;
+=&amp;gt; Relief, but without satisfying the player fully so he continue to engage&lt;br /&gt;
+Keep player in the FOMO, even when we give the reward&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;context&quot; tabindex=&quot;-1&quot;&gt;Context&lt;/h4&gt;
+&lt;h4 id=&quot;metagame&quot; tabindex=&quot;-1&quot;&gt;Metagame&lt;/h4&gt;
+&lt;p&gt;Not the game&lt;br /&gt;
+What happen outside of the game&lt;/p&gt;
+&lt;h3 id=&quot;extensible-interaction&quot; tabindex=&quot;-1&quot;&gt;Extensible interaction&lt;/h3&gt;
+&lt;p&gt;Interaction that can&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Show off my skill&lt;/li&gt;
+&lt;li&gt;Encourage my brain to work&lt;/li&gt;
+&lt;li&gt;Be enhanced by powerups&lt;br /&gt;
+=&amp;gt; Tap into to give player a sense of autonomy/control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;art-ip-fit&quot; tabindex=&quot;-1&quot;&gt;Art/IP Fit&lt;/h3&gt;
+&lt;p&gt;Is the art suitable for the IP&lt;/p&gt;
+&lt;h3 id=&quot;game-economy&quot; tabindex=&quot;-1&quot;&gt;Game economy&lt;/h3&gt;
+&lt;p&gt;This encompasses everything, like&lt;br /&gt;
+Gold / Player Time / XP / Consumables / ...&lt;br /&gt;
+Think about how they all interact together and where does your business model fits in&lt;/p&gt;
+&lt;h1 id=&quot;data&quot; tabindex=&quot;-1&quot;&gt;Data&lt;/h1&gt;
+&lt;h2 id=&quot;where-do-we-get-data&quot; tabindex=&quot;-1&quot;&gt;Where do we get data?&lt;/h2&gt;
+&lt;h3 id=&quot;user-testing-qualitative-testing&quot; tabindex=&quot;-1&quot;&gt;User testing / Qualitative testing&lt;/h3&gt;
+&lt;p&gt;Online playtesting platform : &lt;a href=&quot;https://antidote.gg/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://antidote.gg/&lt;/a&gt;&lt;br /&gt;
+Great to recruit 5/10 people.&lt;/p&gt;
+&lt;p&gt;Have some telemetry ready to understand what path do they take / where they are stuck.&lt;/p&gt;
+&lt;p&gt;Ask 3 Questions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Did they enjoy playing the game -&amp;gt; They will lie&lt;/li&gt;
+&lt;li&gt;Would they play the game again -&amp;gt; They will lie again&lt;/li&gt;
+&lt;li&gt;Would they recommend to a friend -&amp;gt; They already lied twice, they are much likely to give an honest answer here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;attribution-partner&quot; tabindex=&quot;-1&quot;&gt;Attribution partner&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://steamdatasuite.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://steamdatasuite.com/&lt;/a&gt;&lt;br /&gt;
+When I run a marketing campaign, where does the player comes from?&lt;/p&gt;
+&lt;h3 id=&quot;in-game-data&quot; tabindex=&quot;-1&quot;&gt;In game data&lt;/h3&gt;
+&lt;p&gt;It&#39;s increasingly difficult to extract raw data from game platform, so we need to back data gathering into the game -&amp;gt; ship to an Object Storage and observe with another software (Dataiku :))&lt;/p&gt;
+&lt;p&gt;Example of data&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Event trigger&lt;br /&gt;
+With context, anonymized of course&lt;br /&gt;
+2. Level start&lt;br /&gt;
+3. Level end&lt;br /&gt;
+4. Shooting action&lt;br /&gt;
+5. End of a match&lt;br /&gt;
+With context, so we can mesure a Win / Loss ratio&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;market-data&quot; tabindex=&quot;-1&quot;&gt;Market data&lt;/h3&gt;
+&lt;p&gt;vginsight, steamspy, steamdb&lt;/p&gt;
+&lt;h2 id=&quot;what-do-we-do-with-the-data&quot; tabindex=&quot;-1&quot;&gt;What do we do with the data&lt;/h2&gt;
+&lt;p&gt;=&amp;gt; Average of 10 games in the subgenre&lt;br /&gt;
+=&amp;gt; Create revenue possibility&lt;br /&gt;
+⚠️ It&#39;s not forecast, it&#39;s what success can look like&lt;/p&gt;
+&lt;p&gt;Top down analysis with Market data:&lt;br /&gt;
+What the market is looking like?&lt;br /&gt;
+What the growth is looking like?&lt;br /&gt;
+=&amp;gt; Create KPI to use to mesure our likelihood of success&lt;/p&gt;
+&lt;p&gt;Bottom up analysis&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make assumption on KPI&lt;/li&gt;
+&lt;li&gt;What revenue can the game make if those KPI are true&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Build Data targets&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimal&lt;/li&gt;
+&lt;li&gt;Good&lt;/li&gt;
+&lt;li&gt;Mid&lt;/li&gt;
+&lt;li&gt;Fail&lt;br /&gt;
+=&amp;gt; Can be used to make tests:&lt;/li&gt;
+&lt;li&gt;share trailer with real targeting but small audience&lt;/li&gt;
+&lt;li&gt;with expected KPI
+&lt;ul&gt;
+&lt;li&gt;Cost per click / Cost per install&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;See in which target we land&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Example Indicators&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cost per click / Cost per install&lt;/li&gt;
+&lt;li&gt;Retention&lt;/li&gt;
+&lt;li&gt;ROAS: Return on Advertising Spend&lt;/li&gt;
+&lt;li&gt;ARPDAU: Average Revenu Per Daily Active User&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;game-report&quot; tabindex=&quot;-1&quot;&gt;Game report&lt;/h1&gt;
+&lt;p&gt;Rate every next points with N/A, ISSUES, PARTLY, MOSTLY, GOOD&lt;br /&gt;
+Detail every category by answering the questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What this does well&lt;/li&gt;
+&lt;li&gt;Recommendations&lt;/li&gt;
+&lt;li&gt;Questions and potentials risks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;game-design&quot; tabindex=&quot;-1&quot;&gt;Game design&lt;/h2&gt;
+&lt;p&gt;Compelling core mechanic&lt;br /&gt;
+Gameplay is extensible&lt;br /&gt;
+Sense of purpose and progression&lt;br /&gt;
+Play fits lifestyle &amp;amp; Mode of use&lt;br /&gt;
+Compelling social experience&lt;/p&gt;
+&lt;h2 id=&quot;monetization-design&quot; tabindex=&quot;-1&quot;&gt;Monetization Design&lt;/h2&gt;
+&lt;p&gt;Focus on player utility&lt;br /&gt;
+Monetization fits platform/genre&lt;br /&gt;
+Good use of hybrid monetization&lt;br /&gt;
+Reasons for repeat purchase&lt;br /&gt;
+Purchase experience is satisfying&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/validating-your-game-design/" />
+        </entry>
+        <entry>
+            <title>
+                Using Analytics to Create Viral Games
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/using-analytics-to-create-viral-games/</id>
+            <content type="html">
+                &lt;p&gt;My note on the video &lt;a href=&quot;https://www.youtube.com/watch?v=5m2umPx5774&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Using Analytics to Create Viral Games&lt;/a&gt; by Gavin Eisenbeisz&lt;/p&gt;
+&lt;p&gt;Viral games are &amp;quot;made&amp;quot; by content creators.&lt;br /&gt;
+Content creators play games that increase their retention rate, because that&#39;s how they get paid&lt;br /&gt;
+Make games that naturally creates videos with high retention rates.&lt;/p&gt;
+&lt;p&gt;[[Game Retention Study.pdf]] was made studying retention on no-commentaries gameplay video.&lt;br /&gt;
+(So something that directly matches how your game can create high retention rates for content creators)&lt;/p&gt;
+&lt;h2 id=&quot;how-to-increase-retention-rate-on-videos&quot; tabindex=&quot;-1&quot;&gt;How to increase retention rate on videos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Work toward a goal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Author&#39;s DevLog template video:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1st 5 seconds: explain the problem / story -&amp;gt; what goal do I need to accomplish in this video&lt;/li&gt;
+&lt;li&gt;10-15seconds: Additional context&lt;/li&gt;
+&lt;li&gt;45-60 seconds: Rapide progress toward the goal&lt;/li&gt;
+&lt;li&gt;Twist / Additional challenge&lt;/li&gt;
+&lt;li&gt;Rest of the video: Progress interrupted by intermediate conflicts
+&lt;ul&gt;
+&lt;li&gt;Close to the curve in [[Game Retention Study.pdf]]&lt;/li&gt;
+&lt;li&gt;Constant remind the public of the goal and where we are -&amp;gt; like in a car ride with child &amp;quot;Are we there yet?!&amp;quot; -&amp;gt; Progress bar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;game-features-decreasing-retention-rate&quot; tabindex=&quot;-1&quot;&gt;Game features decreasing retention rate&lt;/h2&gt;
+&lt;p&gt;Keep in mind that some features are bad for retention in a video, but good for player experience, so it&#39;s a balance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bad menu screen 🔽&lt;br /&gt;
+Applicable only on no-commentaries gameplay video, because on edited video, bad menus will be edited-out most likely&lt;/li&gt;
+&lt;li&gt;Player deaths 🔼&lt;br /&gt;
+Every time the player dies, you loose retention -&amp;gt; the tension to move toward the goal is release, so you loose viewers&lt;br /&gt;
+Why ? They are followed by long game over screens, then loading screen, then have to retrace already traveled paths&lt;br /&gt;
+=&amp;gt; Cut respawn time to the smallest possible time / instant&lt;br /&gt;
+In horror game though, players death is expected at least once with a jumpscare&lt;/li&gt;
+&lt;li&gt;Level / Match completion / Win screens 🔽&lt;br /&gt;
+Probably cut in edited video but valid for livestream / no-commentaries gameplay&lt;/li&gt;
+&lt;li&gt;Notes / Wall of text ⏫&lt;br /&gt;
+Notes are worse for retention the longer they are and the sooner in the game they appear&lt;br /&gt;
+=&amp;gt; If note can&#39;t be avoided: Few words, big fonts, pictures, later in the game&lt;/li&gt;
+&lt;li&gt;Expositions dump ⏫&lt;br /&gt;
+Similar to notes - Big cinematics / monologs / dialogs. Worst if not acted&lt;/li&gt;
+&lt;li&gt;Backtracking 🔼&lt;br /&gt;
+When player goes to a long dead-end path / when player died and the waypoint is too far off&lt;/li&gt;
+&lt;li&gt;Credits 🔽&lt;br /&gt;
+People leave as soon as the credits rolls&lt;br /&gt;
+=&amp;gt; Put the credits as a button in you main menu&lt;/li&gt;
+&lt;li&gt;Walking simulator 🔽&lt;br /&gt;
+Variety in environment is needed, as well as landmarks, and goal visible from a distance&lt;/li&gt;
+&lt;li&gt;Dullness 🔼&lt;br /&gt;
+Overly dull / slow gameplay moment&lt;/li&gt;
+&lt;li&gt;Lighting / Obscure style 🔽&lt;br /&gt;
+Harsh art style / difficult to read the scene&lt;/li&gt;
+&lt;li&gt;Repetition 🔼&lt;br /&gt;
+Core gameplay repeating in under 10sec&lt;br /&gt;
+=&amp;gt; Add variety in the gameplay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;features-that-help-hold-retention&quot; tabindex=&quot;-1&quot;&gt;Features that help hold retention&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chase scene 🔼&lt;br /&gt;
+Slowly increase the intensity of the chase as time goes on.&lt;br /&gt;
+Maybe inching the player closer and closer to dying, without actually dying.&lt;br /&gt;
+Enemy must be close, and visible&lt;br /&gt;
+Don&#39;t end the scene to abruptly =&amp;gt; transition to a new goal&lt;/li&gt;
+&lt;li&gt;Boss fights 🔼&lt;/li&gt;
+&lt;li&gt;Parkour 🔽&lt;br /&gt;
+Not a lot of data on this one, but even in the same game, levels with a lot of parkour holds attention more than levels with high action&lt;/li&gt;
+&lt;li&gt;Clear definition of goals ⏫&lt;br /&gt;
+Most important feature, basically encompassing all of the above: having a clear goal is creating anticipation of something to come and increases stakes. Creating features with clear definition of goals is key to keep audience engaged (and thus make content creator more likely to pick up you game)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;features-that-bump-retention&quot; tabindex=&quot;-1&quot;&gt;Features that bump retention&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jumpscares ⏫&lt;br /&gt;
+People are re-watching the video at this point.&lt;br /&gt;
+Subtle jumpscares / stinger are not as effective, but still work&lt;br /&gt;
+Re-using jumpscares loose the impact =&amp;gt; Avoir re-using the same jumpscare&lt;/li&gt;
+&lt;li&gt;Secrets 🔽&lt;/li&gt;
+&lt;li&gt;Sexualization 🔼&lt;br /&gt;
+&lt;em&gt;Personal note&lt;/em&gt;: I don&#39;t want that in my game anyway&lt;/li&gt;
+&lt;li&gt;Random interesting moments 🔼&lt;br /&gt;
+Random / Funny / Out of the blue moments that happen once in a game&lt;/li&gt;
+&lt;li&gt;Trippy stuff / illusions 🔽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;nuance-features-and-other-notes&quot; tabindex=&quot;-1&quot;&gt;Nuance features and other notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Action scenes&lt;br /&gt;
+Player is in control of the situation (vs a chase where the player is not at all in control)&lt;br /&gt;
+No real challenge / tension, the player is going to win&lt;br /&gt;
+Actions scenes can cause bump, and hold for some seconds, but retention will drop drastically after that&lt;br /&gt;
+Slower / more strategic multiplayer shooter (PUBG) are good are retaining views, because the tension build, the action is intense and the resolution is uncertain&lt;/li&gt;
+&lt;li&gt;Cutscenes&lt;br /&gt;
+Can be bad, like big expo dump / long dialogs&lt;br /&gt;
+But good if short / show the goal&lt;/li&gt;
+&lt;li&gt;Mystery and Tension&lt;br /&gt;
+A mysterious story can hold attention, but not if it&#39;s build with big expodumps&lt;br /&gt;
+=&amp;gt; brief conversations / environment cues&lt;/li&gt;
+&lt;li&gt;Subtitles&lt;br /&gt;
+Nuance because sometimes the content creator will do the voice adapted to their audience&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/using-analytics-to-create-viral-games/" />
+        </entry>
+        <entry>
+            <title>
+                The Basics of Founding a Successful Games Company
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/the-basics-of-founding-a-successful-games-company/</id>
+            <content type="html">
+                &lt;p&gt;My notes on the GDC 2023 Talk &lt;a href=&quot;https://www.youtube.com/watch?v=zFkZ0vxB51Y&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Indie Starter Kit: The Basics of Founding a Successful Games Company&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/dinop.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Dino Patti&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;vision&quot; tabindex=&quot;-1&quot;&gt;Vision&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Cultivate it
+&lt;ul&gt;
+&lt;li&gt;Get feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Learn how to communicate it&lt;/li&gt;
+&lt;li&gt;GRAND vision&lt;/li&gt;
+&lt;li&gt;Continuously use the vision
+&lt;ul&gt;
+&lt;li&gt;When something is not possible, go back to the vision: what was the original intent between it&lt;/li&gt;
+&lt;li&gt;Prioritize with it&lt;/li&gt;
+&lt;li&gt;When hiring / partnering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Money is never part of the vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;exercice&quot; tabindex=&quot;-1&quot;&gt;Exercice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vividly imagining the vision&lt;/li&gt;
+&lt;li&gt;Try explaining it to others&lt;/li&gt;
+&lt;li&gt;Is it worth fighting for&lt;/li&gt;
+&lt;li&gt;Are you working on the right vision?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The only problem with common sense is that it&#39;s so... common.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Frank Underwood - House of Cards&lt;/em&gt;&lt;br /&gt;
+&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#quotes&quot;&gt;#quotes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;risk&quot; tabindex=&quot;-1&quot;&gt;Risk&lt;/h1&gt;
+&lt;p&gt;Risk is always experienced from the inside, it&#39;s in every decision you takes between your starting point and going toward your vision&lt;br /&gt;
+25-35: Best moment to take big risks&lt;br /&gt;
+35+: Calculated risks&lt;/p&gt;
+&lt;h1 id=&quot;valuation&quot; tabindex=&quot;-1&quot;&gt;Valuation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Money / Time&lt;/li&gt;
+&lt;li&gt;Team history&lt;/li&gt;
+&lt;li&gt;IP Rights&lt;/li&gt;
+&lt;li&gt;External validation&lt;/li&gt;
+&lt;li&gt;Soft elements
+&lt;ul&gt;
+&lt;li&gt;Culture&lt;/li&gt;
+&lt;li&gt;Reputation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Make as much Value as possible before letting external money in&lt;/p&gt;
+&lt;h1 id=&quot;team&quot; tabindex=&quot;-1&quot;&gt;Team&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Critical to build something bigger than you&lt;/li&gt;
+&lt;li&gt;Always hire people that are better than you&lt;/li&gt;
+&lt;li&gt;Self-motivated people&lt;/li&gt;
+&lt;li&gt;Team skills define what you can make&lt;/li&gt;
+&lt;li&gt;Culture is one of the key things&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;you&quot; tabindex=&quot;-1&quot;&gt;You&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Always start inexperienced&lt;/li&gt;
+&lt;li&gt;You need to lean a lot&lt;/li&gt;
+&lt;li&gt;Navigate stress and pressure&lt;/li&gt;
+&lt;li&gt;Be critical / be able to take critics&lt;/li&gt;
+&lt;li&gt;No one cares about your goals -&amp;gt; if you are good at sharing the vision you can make people care about the vision&lt;/li&gt;
+&lt;li&gt;You need to level up!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;pitfalls&quot; tabindex=&quot;-1&quot;&gt;Pitfalls&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid trends and the idea of quick win
+&lt;ul&gt;
+&lt;li&gt;Have a vision that can stand the test of time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Don&#39;t sacrifice culture for talent&lt;/li&gt;
+&lt;li&gt;Loss of focus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;conclusion&quot; tabindex=&quot;-1&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;No one will remember your small vision&lt;/li&gt;
+&lt;li&gt;First game/project will be your hardest birth
+&lt;ul&gt;
+&lt;li&gt;Cut scope not quality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Find like-minded people and share ideas
+&lt;ul&gt;
+&lt;li&gt;Mentors, peers, other company owners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Be kind, generous, friendly&lt;/li&gt;
+&lt;li&gt;Never stop learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ENJOY THE PROCESS!&lt;br /&gt;
+-&amp;gt; Focus on the Process&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/the-basics-of-founding-a-successful-games-company/" />
+        </entry>
+        <entry>
+            <title>
+                Sink or Swim - How to Build and Validate AA Games Fast
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/sink-or-swim-how-to-build-and-validate-aa-games-fast/</id>
+            <content type="html">
+                &lt;p&gt;My notes on the GDC 2024 Talk &lt;a href=&quot;https://www.youtube.com/watch?v=4ha0UHvCmKU&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sink or Swim: How to Build and Validate AA Games Fast&lt;/a&gt; by &lt;a href=&quot;https://bsky.app/profile/car2n.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Carina Kom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Smooth sailing does not make good sailors&lt;/p&gt;
+&lt;h2 id=&quot;one-pager-is-a-compas&quot; tabindex=&quot;-1&quot;&gt;One Pager is a compas&lt;/h2&gt;
+&lt;p&gt;-&amp;gt; Tool to point toward the visions&lt;br /&gt;
+Anatomy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overall concept&lt;/li&gt;
+&lt;li&gt;Target Audience&lt;/li&gt;
+&lt;li&gt;Unique Selling Point&lt;/li&gt;
+&lt;li&gt;Game Mechanics&lt;/li&gt;
+&lt;li&gt;Monetization Strategy ?&lt;/li&gt;
+&lt;li&gt;Technical Requirements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;lean-canvas-is-a-map&quot; tabindex=&quot;-1&quot;&gt;Lean Canvas is a map&lt;/h2&gt;
+&lt;p&gt;Anatomy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitors&lt;/li&gt;
+&lt;li&gt;Challenges/Risks&lt;/li&gt;
+&lt;li&gt;Solutions&lt;/li&gt;
+&lt;li&gt;Target Audience / Player segment&lt;/li&gt;
+&lt;li&gt;Platform&lt;/li&gt;
+&lt;li&gt;Pitch&lt;/li&gt;
+&lt;li&gt;Team advantage&lt;/li&gt;
+&lt;li&gt;KPI&lt;/li&gt;
+&lt;li&gt;Marketing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;how-to-build-a-lean-canvas&quot; tabindex=&quot;-1&quot;&gt;How to build a lean canvas&lt;/h3&gt;
+&lt;p&gt;&amp;quot;What we love about this genre&amp;quot;&lt;br /&gt;
+&amp;quot;What we love about that genre&amp;quot;&lt;br /&gt;
+--&amp;gt; Pitch&lt;br /&gt;
+==&amp;gt; Put your community / target audience&lt;/p&gt;
+&lt;p&gt;Identify target audience with&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bartle type &lt;a href=&quot;https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uncover player journey&lt;br /&gt;
+Example:&lt;br /&gt;
+-&amp;gt; Signing in the game, First player experience&lt;br /&gt;
+-&amp;gt; Connecting with a friend&lt;/p&gt;
+&lt;p&gt;Value proposition&lt;br /&gt;
+-&amp;gt; List objectives / jobs from player perspective&lt;br /&gt;
+-&amp;gt; List Gain / Pain from those jobs&lt;br /&gt;
+=&amp;gt; Value offering should releave pains and augment gains&lt;br /&gt;
+Every gain and pain should be connected to a solution&lt;/p&gt;
+&lt;h3 id=&quot;mvp&quot; tabindex=&quot;-1&quot;&gt;MVP&lt;/h3&gt;
+&lt;p&gt;Start with a solution that MAXIMALIZE the value provided&lt;br /&gt;
+-&amp;gt; Talk to your players&lt;br /&gt;
+-&amp;gt; How to scale up&lt;br /&gt;
+-&amp;gt; Manage expectations when delivering an MVP&lt;br /&gt;
+-&amp;gt; Iterate and separate yourself from your competitors&lt;/p&gt;
+&lt;h3 id=&quot;prototype&quot; tabindex=&quot;-1&quot;&gt;Prototype&lt;/h3&gt;
+&lt;p&gt;Test and validate a concept or an idea&lt;br /&gt;
+Cheaper that the MVP&lt;br /&gt;
+-&amp;gt; Align stakeholders&lt;br /&gt;
+-&amp;gt; Decide if you want to move forward with an MVP&lt;br /&gt;
+Prototype tests:&lt;br /&gt;
+- Moderated Usability Testing&lt;br /&gt;
+- Remotely moderated Usability testing&lt;br /&gt;
+- Unmoderated Usability testing&lt;br /&gt;
+Type of tests:&lt;br /&gt;
+(Always with a limited number of questions)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explorative&lt;/li&gt;
+&lt;li&gt;Usability&lt;/li&gt;
+&lt;li&gt;A/B Testing&lt;/li&gt;
+&lt;li&gt;Surveys/Questionnaires&lt;/li&gt;
+&lt;li&gt;Focus group&lt;/li&gt;
+&lt;li&gt;Expert review&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;ship-fast-and-amp-open&quot; tabindex=&quot;-1&quot;&gt;Ship fast &amp;amp; Open&lt;/h2&gt;
+&lt;p&gt;Open:&lt;br /&gt;
+-&amp;gt; Immediate feedback&lt;br /&gt;
+-&amp;gt; Super fans: Reduced time on testing cycles&lt;br /&gt;
+-&amp;gt; Extra user research&lt;br /&gt;
+-&amp;gt; Morale improvements&lt;/p&gt;
+&lt;h3 id=&quot;challenges-to-shipping-fast&quot; tabindex=&quot;-1&quot;&gt;Challenges to shipping fast&lt;/h3&gt;
+&lt;h4 id=&quot;not-sustainable-and-gt-rushing&quot; tabindex=&quot;-1&quot;&gt;Not sustainable -&amp;gt; rushing&lt;/h4&gt;
+&lt;p&gt;=&amp;gt; Change request process&lt;/p&gt;
+&lt;p&gt;Change Request&lt;br /&gt;
+Anatomy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Status ( Approved / Denied )&lt;/li&gt;
+&lt;li&gt;Stakeholder (Better if we can refer to it by name)&lt;/li&gt;
+&lt;li&gt;Estimation of complexity / ETA (Optimistic / Pessimistic)&lt;/li&gt;
+&lt;li&gt;Assessment notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;unintentional-blindness&quot; tabindex=&quot;-1&quot;&gt;Unintentional blindness&lt;/h4&gt;
+&lt;p&gt;Tunnel vision&lt;/p&gt;
+&lt;p&gt;Communicate with others about risks&lt;/p&gt;
+&lt;p&gt;=&amp;gt; Risk register&lt;br /&gt;
+To be prepare&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/sink-or-swim-how-to-build-and-validate-aa-games-fast/" />
+        </entry>
+        <entry>
+            <title>
+                Le communisme qui vient
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/</id>
+            <content type="html">
+                &lt;p&gt;De Bernard Friot et Bernard Vasseur&lt;/p&gt;
+&lt;p&gt;Sans prise de notes durant la lecture, voici ce que j&#39;en retiens, avec mes mots&lt;/p&gt;
+&lt;p&gt;Le capitalisme est destructeur, tant de l&#39;homme que de la nature.&lt;br /&gt;
+Il s&#39;appuie sur l&#39;État, et déconstruit les acquis avec des discriminations (femmes, travailleurs étranger, jeunes, seniors, ...). Les lutes antiracistes, féministes, ... sont des luttes des classes.&lt;br /&gt;
+La religion capitaliste se base sur la croyance qu&#39;il faut une avance en capital pour produire.&lt;br /&gt;
+Cependant des déjà-là communistes ont fait preuve du contraire : par exemple la mise en place de la sécurité sociale montre que l&#39;on peut produire avec une avance en salaire.&lt;/p&gt;
+&lt;p&gt;La révolution communiste n&#39;aura pas lieu, et n&#39;est pas souhaitable, en effet la prise de pouvoir sans avoir par avant changé les méthodes de production ne permettra pas l&#39;effet bénéfique escompter (cf. révolution russe d&#39;octobre 1917 &amp;amp; Lénine)&lt;br /&gt;
+Il faut transformer les méthodes de production, en s&#39;appuyant sur des modèles existant (Sécurité Sociale), et proposer une avance en salaire en lieu et place de l&#39;avance en capital.&lt;/p&gt;
+&lt;p&gt;Salaire à la personne, dès 18 ans pour toutes personnes résidente sur le territoire&lt;br /&gt;
+Prise de décision des travailleurs dans les entreprises&lt;br /&gt;
+Propriété d&#39;usage des moyens de production aux travailleurs&lt;br /&gt;
+Propriété patrimonial des moyens de productions aux entités territoriales compétentes (différentes entre une boulangerie et un réseau national de transport par exemple)&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/" />
+        </entry>
+        <entry>
+            <title>
+                LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/la-ferme-100-autonome-en-eau-viande-legumes-plantes-aromatiques-et-perpetuelles/</id>
+            <content type="html">
+                &lt;p&gt;Mes notes sur la vidéo &lt;a href=&quot;https://www.youtube.com/watch?v=iF3O2TSheXI&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles&lt;/a&gt; de l&#39;ArchiPelle.&lt;/p&gt;
+&lt;h2 id=&quot;plantes-perpetuelles-aromatiques-et-medicinales&quot; tabindex=&quot;-1&quot;&gt;Plantes &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#perpétuelles&quot;&gt;#perpétuelles&lt;/a&gt;, &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#aromatiques&quot;&gt;#aromatiques&lt;/a&gt; et &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#médicinales&quot;&gt;#médicinales&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Deuxième section de la vidéo - &lt;a href=&quot;https://youtu.be/iF3O2TSheXI?feature=shared&amp;amp;t=594&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;9:56&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Poireau perpétuel&lt;/li&gt;
+&lt;li&gt;Ail perpétuel
+&lt;ul&gt;
+&lt;li&gt;Mange les bulbille aérienne, à récolter après que les feuilles de la plante soit tombées&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Oignons perpétuel
+&lt;ul&gt;
+&lt;li&gt;Mange les petits bulbes aériens comme des oignons nouveau&lt;/li&gt;
+&lt;li&gt;Les feuilles&lt;/li&gt;
+&lt;li&gt;Les bulbes sous terres comme des échalotes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ciboule&lt;/li&gt;
+&lt;li&gt;Basilic perpetuel&lt;/li&gt;
+&lt;li&gt;Tulbaghia - L&#39;ail africain
+&lt;ul&gt;
+&lt;li&gt;Fleurs / Feuilles comestibles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thé grec des montagnes
+&lt;ul&gt;
+&lt;li&gt;Infusions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Camomille romaine&lt;/li&gt;
+&lt;li&gt;Armoise camphrée
+&lt;ul&gt;
+&lt;li&gt;Médicinale&lt;/li&gt;
+&lt;li&gt;Sirop goût &amp;quot;Cola&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Valériane officinale
+&lt;ul&gt;
+&lt;li&gt;Infusion de racine - contre le stresse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Verveine officinale&lt;/li&gt;
+&lt;li&gt;Petite pimprenelle
+&lt;ul&gt;
+&lt;li&gt;Médicinale&lt;/li&gt;
+&lt;li&gt;Comestible, feuille goût concombre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fenouil vivace&lt;/li&gt;
+&lt;li&gt;Sarasin vivace
+&lt;ul&gt;
+&lt;li&gt;Consomme les feuilles en salade / en poêlé comme les épinards&lt;/li&gt;
+&lt;li&gt;Peut vite être encombrant - mais ça se mange donc :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Poivrier de chine - Houttuynia cordata - Espèce caméléon
+&lt;ul&gt;
+&lt;li&gt;Mange feuilles - goût proche coriandre, sans le goût savon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;echinacea purpurea
+&lt;ul&gt;
+&lt;li&gt;Plante médicinale - faire baisser la fièvre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Œillets passion&lt;/li&gt;
+&lt;li&gt;Bulbine Hallmark
+&lt;ul&gt;
+&lt;li&gt;pas comestible&lt;/li&gt;
+&lt;li&gt;couper une feuille pour en extraire le gel, excellente contre les irritations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;elevage&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#élevage&quot;&gt;#élevage&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/iF3O2TSheXI?feature=shared&amp;amp;t=2783&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;46:23&lt;/a&gt;&lt;br /&gt;
+Mouton - Race: Solognote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rustique&lt;/li&gt;
+&lt;li&gt;Moins sujettes aux maladies&lt;/li&gt;
+&lt;li&gt;N&#39;a pas coupé les queues&lt;/li&gt;
+&lt;li&gt;En pâturage libres sur 2 hectares, séparées en plusieurs zones
+&lt;ul&gt;
+&lt;li&gt;0 suppléments - hormis parfois une botte de foin en hiver si besoin&lt;/li&gt;
+&lt;li&gt;6 brebis / hectares max, avec rotation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gestion de l&#39;eau
+&lt;ul&gt;
+&lt;li&gt;Récupérateur d&#39;eau, trop plein remplis l&#39;abreuvoir quand il pleut&lt;/li&gt;
+&lt;li&gt;Photo: &lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/Pasted%20image%2020250207144313.png&quot; alt=&quot;Pasted image 20250207144313.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livres pour apprendre les premiers soins animaliers
+&lt;ul&gt;
+&lt;li&gt;Points de suture&lt;/li&gt;
+&lt;li&gt;Agnelage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Agnelage
+&lt;ul&gt;
+&lt;li&gt;avantage de la Solognote: jamais aucun soucis avec cette race&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;On abat les agneaux vers 6 mois
+&lt;ul&gt;
+&lt;li&gt;quand il commence à vouloir monter sa mère (on évite toute co-sanguinité)&lt;/li&gt;
+&lt;li&gt;et que ça mère le rejette / le sèvre / s&#39;en sépare&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prairie Verger
+&lt;ul&gt;
+&lt;li&gt;Tous les 10 mètres des tiges hautes&lt;/li&gt;
+&lt;li&gt;Fourrage&lt;/li&gt;
+&lt;li&gt;Ombre&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Poules&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pour limiter les poux rouges, les perchoirs sont accrochés sur des vieilles boites de conserves remplies d&#39;huile&lt;br /&gt;
+&lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/Pasted%20image%2020250207151023.png&quot; alt=&quot;Pasted image 20250207151023.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;potager-jardinforet&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#potager&quot;&gt;#potager&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#jardinforet&quot;&gt;#jardinforet&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Camellia sinensis Kolkhida
+&lt;ul&gt;
+&lt;li&gt;Thé résistant au froid&lt;/li&gt;
+&lt;li&gt;Arbre 3-4 mètres
+&lt;ul&gt;
+&lt;li&gt;Mais va les tailler en buisson rond&lt;/li&gt;
+&lt;li&gt;et tailler les jeunes pousses qui dépassent du buisson rond tous les ans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chou perpétuel - Purple Tree Collard ou le chou Arbre Pourpre&lt;/li&gt;
+&lt;li&gt;Potager en bac
+&lt;ul&gt;
+&lt;li&gt;Facile pour les rotations &lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/Pasted%20image%2020250207174009.png&quot; alt=&quot;Pasted image 20250207174009.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Syntropie&lt;/li&gt;
+&lt;li&gt;Culture en bac parce que presque directement sur le granite&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/la-ferme-100-autonome-en-eau-viande-legumes-plantes-aromatiques-et-perpetuelles/" />
+        </entry>
+        <entry>
+            <title>
+                How to find amazing game ideas
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/how-to-find-amazing-game-ideas/</id>
+            <content type="html">
+                &lt;p&gt;My notes on the &lt;a href=&quot;https://www.youtube.com/watch?v=0m60QbT85Tc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;How to find amazing game ideas&lt;/a&gt; GMTK&#39;s video.&lt;/p&gt;
+&lt;h1 id=&quot;where-do-game-ideas-comes-from&quot; tabindex=&quot;-1&quot;&gt;Where do game ideas comes from&lt;/h1&gt;
+&lt;h2 id=&quot;bottom-up&quot; tabindex=&quot;-1&quot;&gt;Bottom Up&lt;/h2&gt;
+&lt;p&gt;Start to create a game with the mechanics / Systems / rules, then add story, theme later.&lt;/p&gt;
+&lt;h3 id=&quot;other-games&quot; tabindex=&quot;-1&quot;&gt;Other games&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Take an existing game and move it to another perspective&lt;/li&gt;
+&lt;li&gt;Shift a game into a different theme / context&lt;/li&gt;
+&lt;li&gt;Switch medium (from board game to video game for example)&lt;/li&gt;
+&lt;li&gt;Bring game back from the dead&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don&#39;t reskin / clone existing title - explore the unique design space offered by the change in perspective / theme / medium or simply by bring you unique perspective.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Everything anyone ever makes is inspired by what&#39;s in their head --- what they&#39;ve played or read or encountered or thought a lot about.&lt;br /&gt;
+Creation doesn&#39;t happen in a vacuum --- everything is a remix!&lt;br /&gt;
+You start with the ideas you love and obsess about, and go from there to make something that&#39;s uniquely your own.&lt;br /&gt;
+&lt;em&gt;Terry Cavanagh&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;using-genres&quot; tabindex=&quot;-1&quot;&gt;Using Genres&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Can act like a template / recipe: use a set of ready made mechanics or convention and put your own spin on it.&lt;/li&gt;
+&lt;li&gt;Find a problem in a genre, and fix it.&lt;/li&gt;
+&lt;li&gt;Combine multiple genres&lt;/li&gt;
+&lt;li&gt;Add something brand new to a genre&lt;/li&gt;
+&lt;li&gt;Remove something from a genre&lt;/li&gt;
+&lt;li&gt;Take a mechanic of an existing genre, but swap the metaphor for something completely new (example, change the first person shooting mechanics to something like taking a picture, or a power washer). Reduce the genre to its smallest possible DNA, then build outward from there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;making-mechanics&quot; tabindex=&quot;-1&quot;&gt;Making mechanics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Real world activities / experiences&lt;/li&gt;
+&lt;li&gt;Find inspiration through the way we control games&lt;/li&gt;
+&lt;li&gt;Isolate one specific mechanic or system from another game and spine that out to do something completely new&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I read a lot, I like learning new things, and at some point I&#39;ll just trip over a subject or some material that I find particularly fascinating.&lt;br /&gt;
+So it&#39;s not like I sit down and say, okay, I&#39;m going to come up with a new game idea.&lt;br /&gt;
+It&#39;s more like I&#39;m kind of just exploring, browsing the world, then it&#39;s like oh, maybe I can make a game out of this.&lt;br /&gt;
+Will Wright&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;top-down&quot; tabindex=&quot;-1&quot;&gt;Top down&lt;/h2&gt;
+&lt;p&gt;Start with the experience, then derive the gameplay&lt;/p&gt;
+&lt;h3 id=&quot;experience&quot; tabindex=&quot;-1&quot;&gt;Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fantasy: what sort of role do you want the player to inhabit?&lt;/li&gt;
+&lt;li&gt;Start with a theme&lt;/li&gt;
+&lt;li&gt;Highly personal experience / autobiography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;constructing-a-game-idea&quot; tabindex=&quot;-1&quot;&gt;Constructing a game idea&lt;/h2&gt;
+&lt;p&gt;Story, Gameplay, ... are not game ideas: they are starting point.&lt;br /&gt;
+You need to turn it into something that can actually be played.&lt;/p&gt;
+&lt;p&gt;One common structure:&lt;/p&gt;
+&lt;p&gt;Ask yourself, in an individual level or scene:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the player&#39;s goal / the win state?&lt;/li&gt;
+&lt;li&gt;What is pushing player away from this win state / what are the obstacles?&lt;/li&gt;
+&lt;li&gt;What are theses obstacles pushing the player toward, what is the fail state?&lt;/li&gt;
+&lt;li&gt;What is the player doing to overcome those obstacles and reach the win state / what are the player&#39;s actions?&lt;br /&gt;
+&lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/Pasted%20image%2020250225205501.png&quot; alt=&quot;Pasted image 20250225205501.png&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;general-ideation-tips-and-tricks&quot; tabindex=&quot;-1&quot;&gt;General ideation tips and tricks&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Break games down into their smallest element, this will help you pick / mash-up / changes / and remix this elements into new forms&lt;/li&gt;
+&lt;li&gt;Really interrogate the games you play, consider their pros and cons with a critic&#39;s mentality. Flaws can be opportunities for new games&lt;/li&gt;
+&lt;li&gt;Challenge convention: take what is expected of a genre and look at what will happen if you flip it on its head&lt;/li&gt;
+&lt;li&gt;Play everything&lt;/li&gt;
+&lt;li&gt;Impose a limitation or restriction on yourself&lt;/li&gt;
+&lt;li&gt;Enter game jams with interesting theme&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What&#39;s something that normally takes a lot of space that would be interesting or unique if you game it less space?&lt;br /&gt;
+&lt;em&gt;Tim &amp;quot;Walaber&amp;quot; Fitzrandolph&lt;/em&gt; on Ludum Dare 54 theme &amp;quot;Limited Space&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;Open your editor and start exploring&lt;/li&gt;
+&lt;li&gt;Surround yourself with music and art&lt;/li&gt;
+&lt;li&gt;Do literally anything else than designing / brainstorming&lt;/li&gt;
+&lt;li&gt;Keep your ideas small - think of a game idea as a seed to be cultivated and grow during the entire development process&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;is-this-idea-any-good&quot; tabindex=&quot;-1&quot;&gt;Is this idea any good&lt;/h1&gt;
+&lt;p&gt;Don&#39;t make the first idea you think of. Ask yourself few questions&lt;/p&gt;
+&lt;h2 id=&quot;can-you-make-it&quot; tabindex=&quot;-1&quot;&gt;Can you make it?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you can make the gameplay prototype in one or two days, then you can make the game in one or two years&lt;br /&gt;
+&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Jonas&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Are you passionate by the idea? You&#39;ll probably work on it for years, so you better love it.&lt;/p&gt;
+&lt;h2 id=&quot;will-this-game-stand-out&quot; tabindex=&quot;-1&quot;&gt;Will this game stand out?&lt;/h2&gt;
+&lt;h3 id=&quot;hook&quot; tabindex=&quot;-1&quot;&gt;Hook&lt;/h3&gt;
+&lt;p&gt;Does the game idea has a hook?&lt;br /&gt;
+Something new and different.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Some interesting bit of information about the game that compels people to try it, or to discuss it&lt;br /&gt;
+&lt;em&gt;Ryan Clark&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Imagine what the headline of an article about your game be?&lt;br /&gt;
+If you can&#39;t write a catchy headline from your game idea, it probably doesn&#39;t have a hook.&lt;/p&gt;
+&lt;h3 id=&quot;anchor&quot; tabindex=&quot;-1&quot;&gt;Anchor&lt;/h3&gt;
+&lt;p&gt;But don&#39;t get too stressed about the hook either&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can&#39;t go overboard and wow them with a hook that is so out there, so original, so revolutionary that potential buyers have no idea what your game even is.&lt;br /&gt;
+If it sounds too risky to them, they are going to pause, say &#39;looks cool but I don&#39;t trust it&#39;. Then move on.&lt;br /&gt;
+&lt;em&gt;Chris Zukowski&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Think about an anchor: something that makes the game feels familiar or safe.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Make a game that is simple, with something unexpected. For example a tower defense game, where towers can be damaged by your own bullets.&lt;br /&gt;
+Simple gets people in the door, unexpected gets them hooked&lt;br /&gt;
+&lt;em&gt;Zachary Richman&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;appeal&quot; tabindex=&quot;-1&quot;&gt;Appeal&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Jonas&lt;/a&gt; recommends to focus less on hooks, but more on what he calls appeal.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Appeal is everything that draws you into the game, before you play the game.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Different kind of appeal:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fantasy appeal: &amp;quot;I want to be this&amp;quot;&lt;/li&gt;
+&lt;li&gt;Exploration appeal&lt;/li&gt;
+&lt;li&gt;Toy appeal: &amp;quot;I want to touch this, to interact with this&amp;quot;&lt;/li&gt;
+&lt;li&gt;Challenge appeal&lt;/li&gt;
+&lt;li&gt;Nostalgic appeal&lt;/li&gt;
+&lt;li&gt;...&lt;br /&gt;
+To see if you your game is appealing, ask yourself:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;how-would-you-market-it&quot; tabindex=&quot;-1&quot;&gt;How would you market it?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I&#39;m even thinking about the idea, I&#39;m thinking &amp;quot;How can I express this in the trailer?&amp;quot;. If I can&#39;t imagine right now a cool trailer for this, then it&#39;s probably not worse pursuing.&lt;br /&gt;
+&lt;em&gt;Lucas Pope&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Thinking about the trailer makes you ask: Can I show the world what makes this game idea interesting?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When you start a project you don&#39;t necessarily spend a lot of time thinking about the Steam store assets you&#39;re going to end up with, and maybe you should.&lt;br /&gt;
+&lt;em&gt;Tom Francis&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;is-the-game-idea-actually-fun&quot; tabindex=&quot;-1&quot;&gt;Is the game idea actually fun?&lt;/h2&gt;
+&lt;p&gt;Our brain are terrible video games simulators: all ideas seems fun in our heads, but once we actually make it, we realize it&#39;s boring, too complicated, and has disastrous design problems.&lt;br /&gt;
+The only way to know for sure is to build a prototype.&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/how-to-find-amazing-game-ideas/" />
+        </entry>
+        <entry>
+            <title>
+                How Xalavier Nelson does it
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/how-xalavier-nelson-does-it/</id>
+            <content type="html">
+                &lt;p&gt;My notes on the &lt;a href=&quot;https://aftermath.site/xalavier-nelson-interview-strange-scaffold-el-paso-teenage-mutant-ninja-turtles&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;How Xalavier Nelson Does It&lt;/a&gt; Aftermath article.&lt;/p&gt;
+&lt;p&gt;Really interesting takes on scope, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Project planning&lt;/a&gt; for games.&lt;/p&gt;
+&lt;h1 id=&quot;on-work&quot; tabindex=&quot;-1&quot;&gt;On work&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nelson: I sleep six to eight hours. I wake up roughly 10 minutes before my first meeting. [...]I&#39;m doing a lot of admin around the studio of going through emails, answering emails, chasing opportunities. I&#39;m in meetings, collaborating with my fellow developers on solutions for things, reviewing material and figuring out what to do next. I am, yeah, doing a lot of feedback on things as they&#39;re brought in and talking about the vision of the game and whether or not something fits.&lt;br /&gt;
+[...]&lt;br /&gt;
+One to several times a week I&#39;m making time for developers, either inside or outside of the studio, to talk to them about what they want to do with their lives or their studios outside of our own and ways we can either support, or that any of my experience can be relevant for, what they want to do next and how they want to do it. And then after all of that stuff is done, which brings us into 5pm, 6pm territory, I have dinner with my wife, we might relax for a little bit, and then I begin what we colloquially call Night Work, which is when I get to do writing and design and documentation that typically I don&#39;t have space for during the day, that helps unblock people for the next day.&lt;br /&gt;
+[...]&lt;br /&gt;
+I&#39;m constantly trying to calibrate my work-life balance as well, and I am treating that as a priority more than ever. But yeah, to run a studio like this in the way that I want, I know that, at least for the foreseeable future, there&#39;s no way I can have a standard 9-to-5. So finding a version of this that makes me happy and lets me be the type of person [I want to be] and show up for my family in the ways that I want, and treating that on a very individual, bespoke basis, has been the most useful thing, and that&#39;s what I try to provide for my collaborators as well.&lt;br /&gt;
+[...]&lt;br /&gt;
+When I notice that someone has a working pattern [...] We have conversations inside the studio of how to support them in that way, rather than try to force them in a way that doesn&#39;t fit their creative style or their natural patterns&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I find myself so much happier getting to, on sometimes a daily basis, figure out what matters for me and my collaborators and fix that – rather than create a perfect spreadsheet that serves no one.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;scope&quot; tabindex=&quot;-1&quot;&gt;scope&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;the approach of each project we plan is in the aggressive, discipline-led way. It&#39;s aggressive positivity of, like, “I love making games – and making games that fit into our lives – so much that I won&#39;t let you put this cool thing into the game that challenges that.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;vision-attracted-by-movement&quot; tabindex=&quot;-1&quot;&gt;vision attracted by movement&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;people saw how busy I was across the studio; they didn&#39;t want to talk to me about what was happening in the game. And there&#39;s always other things happening in the studio; I think a term used for this is “vision attracted by movement.” I was like, “Oh, I guess everything is moving smoothly, and we&#39;re just making the game that we scoped and discussed. Cool.” I didn&#39;t realize that, outside of my field of vision, there were ways that the game was increasing in scope that weren&#39;t visible on the top level but, in the final game, I think can absolutely be seen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The systems you set up give you the life that you live in. You can only hope it&#39;s the life that you want to live.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/how-xalavier-nelson-does-it/" />
+        </entry>
+        <entry>
+            <title>
+                Don&#39;t ship the wrong game
+                
+            </title>
+            <updated>2025-12-23T10:39:50Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/don-t-ship-the-wrong-game/</id>
+            <content type="html">
+                &lt;p&gt;My notes from the &lt;a href=&quot;https://youtu.be/fKJDv8NI9T0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;talk&lt;/a&gt; &lt;a href=&quot;https://bsky.app/profile/bippinbits.bsky.social&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;René Habermann&lt;/a&gt; gave at GameCamp 2025.&lt;/p&gt;
+&lt;h2 id=&quot;framework&quot; tabindex=&quot;-1&quot;&gt;Framework&lt;/h2&gt;
+&lt;p&gt;A framework on how to be sustainable as an indie game studio.&lt;/p&gt;
+&lt;p&gt;Game Jam =&amp;gt; Feedbacks&lt;br /&gt;
+Feedbacks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;rating&lt;/li&gt;
+&lt;li&gt;comments&lt;/li&gt;
+&lt;li&gt;10min experience played for 10s of hours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don&#39;t necessarily validate your game idea on social media, Dome Keeper didn&#39;t had a lot of social media traction.&lt;/p&gt;
+&lt;p&gt;Demo release peaked&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;broad appeal&lt;/li&gt;
+&lt;li&gt;some virality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Timeline:&lt;br /&gt;
+3 days game jam&lt;br /&gt;
+8 weeks refined prototype to demo&lt;br /&gt;
+9 months to release (2 demos)&lt;/p&gt;
+&lt;p&gt;Never stop having new people in the demos&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/37765139-455b-4cd7-9e7f-9e369f14d08b~1.jpg&quot; alt=&quot;37765139-455b-4cd7-9e7f-9e369f14d08b~1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Validations points :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;should we abandoned the project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Core fancy: not a vertical slice.&lt;/p&gt;
+&lt;h2 id=&quot;what-s-a-wrong-game&quot; tabindex=&quot;-1&quot;&gt;What&#39;s a wrong game&lt;/h2&gt;
+&lt;p&gt;A game that makes you close the studio&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Undesired: not enough follower / wishlist =&amp;gt; no positive validation
+&lt;ul&gt;
+&lt;li&gt;didn&#39;t validate against the market&lt;/li&gt;
+&lt;li&gt;or dev. Don&#39;t listen for result of validation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;misaligned: a lot of people want what they thought you were making, but it&#39;s different from what you where making
+&lt;ul&gt;
+&lt;li&gt;lot of positive validation&lt;/li&gt;
+&lt;li&gt;decent launch day&lt;/li&gt;
+&lt;li&gt;causes:
+&lt;ul&gt;
+&lt;li&gt;comms on game are off&lt;/li&gt;
+&lt;li&gt;devs didn&#39;t understand or respect player sentiment&lt;/li&gt;
+&lt;li&gt;validation and playtest only with a closed player group =&amp;gt; keep testing first player XP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;how to avoid
+&lt;ul&gt;
+&lt;li&gt;keep testing first player XP, keep adding players to playtest, keep playtesting&lt;/li&gt;
+&lt;li&gt;align the entire team&lt;/li&gt;
+&lt;li&gt;define experience goals for your game and check against them during dev&lt;/li&gt;
+&lt;li&gt;build for the players&lt;/li&gt;
+&lt;li&gt;keep it playable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;overdeveloped : spent too much time developing, don&#39;t recoup:
+&lt;ul&gt;
+&lt;li&gt;positive validation&lt;/li&gt;
+&lt;li&gt;medium metric&lt;/li&gt;
+&lt;li&gt;made a huge multi-year project&lt;/li&gt;
+&lt;li&gt;causes:
+&lt;ul&gt;
+&lt;li&gt;dev loves the game too much&lt;/li&gt;
+&lt;li&gt;too little prod. Constraints&lt;/li&gt;
+&lt;li&gt;insecure / volatile opinions / keep redoing stuff again and again&lt;/li&gt;
+&lt;li&gt;overspend on art&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;how to avoid
+&lt;ul&gt;
+&lt;li&gt;use validation points to inform scope of next step&lt;/li&gt;
+&lt;li&gt;retain prototyping spirit&lt;/li&gt;
+&lt;li&gt;flexible scope&lt;/li&gt;
+&lt;li&gt;go by experience goals, not feature liste&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;game shipped well, but every one is burned out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;how-to-make-a-prototype&quot; tabindex=&quot;-1&quot;&gt;How to make a prototype&lt;/h2&gt;
+&lt;p&gt;Guidelines&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep it simple
+&lt;ul&gt;
+&lt;li&gt;clarify requirements as soon as possible, if you don&#39;t know how to clarify : keep it simple&lt;/li&gt;
+&lt;li&gt;for example don&#39;t build map génération before doing map by hand (maybe with some chunk randomization ) so you can use player feedback to improve and build the actual generation later&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;alternative shortcut
+&lt;ul&gt;
+&lt;li&gt;instead of doing the actual solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;80% is enough
+&lt;ul&gt;
+&lt;li&gt;save time and move on&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;validating-prototype&quot; tabindex=&quot;-1&quot;&gt;Validating prototype&lt;/h2&gt;
+&lt;p&gt;Let people play your game&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;especially unfriendly internet people&lt;/li&gt;
+&lt;li&gt;you learn with ever playtest&lt;/li&gt;
+&lt;li&gt;keep you motivated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Form an holistic view with multiple points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;game jam results
+&lt;ul&gt;
+&lt;li&gt;but also number of ratings (test appeal)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;playtest&lt;/li&gt;
+&lt;li&gt;social media hype&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://itch.io/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;itch.io&lt;/a&gt; ratings / appeal /...&lt;/li&gt;
+&lt;li&gt;how many plays does this game needs for a player to leave feedback&lt;/li&gt;
+&lt;li&gt;comments :
+&lt;ul&gt;
+&lt;li&gt;small nice comments, not a good sign&lt;/li&gt;
+&lt;li&gt;long / emotional comments show better appeal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;media reception for game jam is a positive point&lt;/li&gt;
+&lt;li&gt;YouTube videos even for game jam
+&lt;ul&gt;
+&lt;li&gt;ppl make a video : good&lt;/li&gt;
+&lt;li&gt;variation in views (better views than average for example)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;do we feel passionate about the game&lt;/li&gt;
+&lt;li&gt;do we have a vision for the full game&lt;/li&gt;
+&lt;li&gt;do our skills match with what&#39;s needed&lt;/li&gt;
+&lt;li&gt;talk about your game
+&lt;ul&gt;
+&lt;li&gt;do people get existed&lt;/li&gt;
+&lt;li&gt;do they add their own ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All this should paint a clear picture&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://rheneross.com/img/user/Notes/medias/40349f9d-9734-42c0-bad0-2b923b0ced8a~1.jpg&quot; alt=&quot;40349f9d-9734-42c0-bad0-2b923b0ced8a~1.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Slides : &lt;a href=&quot;https://docs.google.com/presentation/d/1egGjqDTZI6OQ6nLjWiwJ5yHYhBvBf5v_6FiH3rLxZUk/edit?usp=drivesdk&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://docs.google.com/presentation/d/1egGjqDTZI6OQ6nLjWiwJ5yHYhBvBf5v_6FiH3rLxZUk/edit?usp=drivesdk&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/don-t-ship-the-wrong-game/" />
+        </entry>
         <entry>
             <title>
                 Ask Iwata
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/reading-notes/ask-iwata/</id>
             <content type="html">
                 &lt;p&gt;I didn&#39;t take any notes at the start of the book, but I&#39;m going to save some &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#quotes&quot;&gt;#quotes&lt;/a&gt; here.&lt;/p&gt;
@@ -40,7 +1069,7 @@ p.63&lt;/p&gt;
                 ALUOigrice 1.3 – Stuffed Wombat
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/</id>
             <content type="html">
                 &lt;p&gt;This is my notes on the &lt;a href=&quot;https://www.youtube.com/watch?v=b0E4z56vhOc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;talk&lt;/a&gt; &lt;a href=&quot;https://bsky.app/profile/stuffedwomb.at&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stuffed Wombat&lt;/a&gt; gave at ALUOigrice.&lt;/p&gt;
@@ -100,7 +1129,7 @@ Success is releasing a game.&lt;/p&gt;
                 360 no-SCOP tips &amp; tricks de survie en CO-OP
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/</id>
             <content type="html">
                 &lt;p&gt;Mes notes sur la conférence &lt;a href=&quot;https://www.youtube.com/watch?v=hhdeguTChDY&amp;amp;list=WL&amp;amp;index=1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt; donnée par Thaïs Arias &amp;amp; Jean Nicolas à l&#39;addon 2025.&lt;/p&gt;
@@ -222,7 +1251,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Todo
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/garden-todo/</id>
             <content type="html">
                 &lt;p&gt;Most of my notes are not yet available, there is still a lot of seeds to sow.&lt;/p&gt;
@@ -241,13 +1270,21 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Reading Notes
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/garden-reading-notes/</id>
             <content type="html">
                 &lt;ul class=&quot;block-language-dataview&quot;&gt;
-&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/&quot;&gt;ALUOigrice 1.3 – Stuffed Wombat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/&quot;&gt;Le communisme qui vient&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/how-to-find-amazing-game-ideas/&quot;&gt;How to find amazing game ideas&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/ask-iwata/&quot;&gt;Ask Iwata&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/how-xalavier-nelson-does-it/&quot;&gt;How Xalavier Nelson does it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/la-ferme-100-autonome-en-eau-viande-legumes-plantes-aromatiques-et-perpetuelles/&quot;&gt;LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;- - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/sink-or-swim-how-to-build-and-validate-aa-games-fast/&quot;&gt;Sink or Swim - How to Build and Validate AA Games Fast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/the-basics-of-founding-a-successful-games-company/&quot;&gt;The Basics of Founding a Successful Games Company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/using-analytics-to-create-viral-games/&quot;&gt;Using Analytics to Create Viral Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/validating-your-game-design/&quot;&gt;Validating Your Game Design&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
@@ -258,7 +1295,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Home
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
@@ -274,10 +1311,13 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Economics
                 
             </title>
-            <updated>2025-12-23T09:58:17Z</updated>
+            <updated>2025-12-23T10:39:50Z</updated>
             <id>https://rheneross.com/notes/economics/</id>
             <content type="html">
-                &lt;p&gt;I&#39;m mostly interested by how we can create more fair company structures, like cooperatives.&lt;/p&gt;
+                &lt;ul class=&quot;block-language-dataview&quot;&gt;
+&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/le-communisme-qui-vient/&quot;&gt;Le communisme qui vient&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
             </content>
             <link href="https://rheneross.com/notes/economics/" />
