@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/economics/"}
+{"dg-publish":true,"permalink":"/digital-garden/economics/","noteIcon":"2"}
 ---
 
- [[DigitalGarden/Résilience et coopération\|Résilience et coopération]] 
+ I'm mostly interested by how we can create more fair company structures, like cooperatives.
  
