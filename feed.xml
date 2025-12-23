@@ -3,17 +3,18 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-22T22:15:55Z</updated>
+    <updated>2025-12-23T07:09:20Z</updated>
     <id>https://rheneross.com</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-12-22T22:15:44Z</updated>
+            <updated>2025-12-23T07:09:08Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#economics&quot;&gt;#economics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I like to &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;make video games&lt;/a&gt;, talk about &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/digital-garden/economics/&quot;&gt;Economics&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Ecology&lt;/a&gt; and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Technology&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Other stuff like&lt;/p&gt;
 &lt;p&gt;how to take notes&lt;/p&gt;
@@ -29,7 +30,7 @@
                 Economics
                 
             </title>
-            <updated>2025-12-22T22:15:44Z</updated>
+            <updated>2025-12-23T07:09:08Z</updated>
             <id>https://rheneross.com/digital-garden/economics/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Résilience et coopération&lt;/a&gt;&lt;/p&gt;
