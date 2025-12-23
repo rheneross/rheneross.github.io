@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/","tags":["reading_notes/video","gamedev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/","tags":["reading_notes/video","gamedev"]}
 ---
 
 This is my notes on the [talk](https://www.youtube.com/watch?v=b0E4z56vhOc) [Stuffed Wombat](https://bsky.app/profile/stuffedwomb.at) gave at ALUOigrice.

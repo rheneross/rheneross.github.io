@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/garden-home/","title":"Home","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/garden-home/","title":"Home","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 Hey I’m Thibaud!

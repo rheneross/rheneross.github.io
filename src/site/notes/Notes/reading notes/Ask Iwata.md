@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/ask-iwata/","tags":["reading_notes/book"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/reading-notes/ask-iwata/","tags":["reading_notes/book"]}
 ---
 
 I didn't take any notes at the start of the book, but I'm going to save some #quotes here.
