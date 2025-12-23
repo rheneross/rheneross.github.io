@@ -1,7 +1,7 @@
 [
 {
 		"title": "Economics",
-		"date":"Tue Dec 23 2025 08:25:03 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 08:29:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/economics/",
 		"content": "I'm mostly interested by how we can create more fair company structures, like cooperatives.",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Home",
-		"date":"Tue Dec 23 2025 08:25:03 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 08:29:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Hey I’m Thibaud!\nWelcome to my garden. It's fairly new, so there's still <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/garden-todo/\">much to do</a>.\nI like to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">make video games</a>, talk about <a class=\"internal-link\" target=\"\" data-note-icon=\"2\" href=\"/notes/economics/\">Economics</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ecology</a> and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Technology</a>.\nYou can also take a look at my <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/garden-reading-notes/\">Reading Notes</a>, they can be about something I've read, but also watched, played or listen to.",
 		"tags": [ "note","gardenEntry"]
@@ -17,15 +17,15 @@
 
 {
 		"title": "Reading Notes",
-		"date":"Tue Dec 23 2025 08:25:03 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 08:29:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/garden-reading-notes/",
-		"content": "File\nLang\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/\">360 no-SCOP tips &amp; tricks de survie en CO-OP</a>\n🇫🇷",
+		"content": "🇫🇷 - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/\">360 no-SCOP tips &amp; tricks de survie en CO-OP</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Garden Todo",
-		"date":"Tue Dec 23 2025 08:25:03 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 08:29:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/garden-todo/",
 		"content": "Most of my notes are not yet available, there is still a lot of seeds to sow.\nThere's also a lot of changes to be made to the site itself:\n- Change the default icon\n- Add a Signpost icon\n- Update the sidebar so it's stuck to the left: https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss\n- Add a favicon",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "360 no-SCOP tips & tricks de survie en CO-OP",
-		"date":"Tue Dec 23 2025 08:25:03 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 08:29:35 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/",
 		"content": "SCOP:\n\nUne entreprise comme une autre\nQui a sollicité le ministère du travail pour avoir le tampon scop\nQui s'engage à respecter des contraintes\n\nTout-e salarié-e qui demande à rejoindre le sociétariat après un certain nombre d'année d'activité est automatiquement accepté-e\nUne part des bénéfices doit être redistribuée aux réserves\nUne part des bénéfices doit être distribuée aux employé-es\nLes parts sociales sont revendues à leur prix d'achat initial\n\nQui bénéficie de quelques avantages\n\nExonération d'IS\nExonération CFE et CET\nLe chômage pour le président\n\nQui affiche des convictions dans ses status\n\n+une 7ème: &quot;Ouverture sur le monde&quot;\n\nRedistribution des bénéfices\n\nRéserve\nPart travail\n\nDistribution sous forme de salaires (primes) OU\nd'accord de participation : comptabilisation d'une réserve bloqué 5 ans\n\nAvantage salarié: net d'impots\nAvantage société: trésorerie long terme\n\nDividendes\n\nLe taux de pérennité à 5 ans est de 79% pour les coopératives contre 61% pour l'ensemble des entreprises françaises\nINSEE\n\nFinancement\n\nInterlocuteur principal\nUnion Régionale des SCOP (URSCOP)\nTransformation vs Création d'entreprise\nSeniors\n\nGestions travailleureuses\nBesoins des travailleureuses\n\nComment?\n\nSalaire unique\ntransparence sur les comptes / la gestion\n\nvulgarisation pour tout le monde\n\nPrésidence tournante\nRéunions stratégiques\n\nTous les 5-6 mois (devrait être tous les 2 mois)\nDecisions collectives stratégiques\n\n&quot;Est-ce qu'on veut faire ci/ça&quot;\n&quot;Est-ce qu'on veut lancer une deuxième ligne de prod&quot;\n\nAutonomie maximum\nprocessus collectif des décisions créatives\n\nen respectant les compétences de chacun-e\n\nréunion bien-être\n\ndiscuter tous-tes ensemble de ce qui affecte notre capacité à travailler, que ce soit en entreprise, à la maison, dans le monde, ... dans la limite de ce que chacun-e veut partager\néviter burn-out\n\nQuestions\nAides régional vs télétravail\n\nOù sont tes salariés\nOù est ton QG\n\nPourquoi si petit nombre de SCOP alors que pleins d'avantages?\n\nIl faut pouvoir payer des salaires pour une SCOP\nQuand on peut payer des salaires, beaucoup de gens hésitent à faire une scop\nCoopératives aussi très associées au modèle agricole\n\nGrève au sein d'une scop?\n-&gt; Faire grève a peu de sens : c'est faire grève contre soit-même.\n-&gt; Mais on peut faire grève en soutiens à d'autres mouvement, et se payer quand même pendant la grève.\nPlan financement SCOP\n\nSubventions\nÉditeurs\nPrêts bancaires\nVente de prestation de services",
 		"tags": [ "note","reading_notes/video","conf/addon2025"]
