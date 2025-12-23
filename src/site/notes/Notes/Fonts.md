@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fonts/","tags":["gamedev","art"]}
+{"dg-publish":true,"permalink":"/notes/fonts/","tags":["gamedev/art"]}
 ---
 
 ## Fonts

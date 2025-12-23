@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/godot/","tags":["gamedev","godot","tech"]}
+{"dg-publish":true,"permalink":"/notes/godot/","tags":["godot","gamedev/tech"]}
 ---
 
 ## Template

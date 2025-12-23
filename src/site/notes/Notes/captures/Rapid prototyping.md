@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/captures/rapid-prototyping/","tags":["gamedev","design","capture"]}
+{"dg-publish":true,"permalink":"/notes/captures/rapid-prototyping/","tags":["capture","gamedev/design"]}
 ---
 
 Captured from: https://www.linkedin.com/posts/alexander-brazie_it-took-me-3-years-to-admit-failure-with-activity-7165450119251779584-mxjv?utm_source=share&utm_medium=member_desktop

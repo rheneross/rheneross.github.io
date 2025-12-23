@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/godot-func-godot-and-trenchbroom/","tags":["godot","gamedev","tech"]}
+{"dg-publish":true,"permalink":"/notes/godot-func-godot-and-trenchbroom/","tags":["godot","gamedev/tech"]}
 ---
 
 ## Useful links

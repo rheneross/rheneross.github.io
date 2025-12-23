@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/project-planning/","tags":["gamedev","planning"]}
+{"dg-publish":true,"permalink":"/notes/project-planning/","tags":["gamedev/planning"]}
 ---
 
 

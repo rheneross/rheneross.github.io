@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/audio-tools/","tags":["gamedev","audio"]}
+{"dg-publish":true,"permalink":"/notes/audio-tools/","tags":["gamedev/audio"]}
 ---
 
 SFX with [bfxr](https://www.bfxr.net/) or [jfxr](https://jfxr.frozenfractal.com/#) or 

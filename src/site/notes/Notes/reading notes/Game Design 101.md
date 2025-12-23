@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/game-design-101/","tags":["gamedev","reading_notes/video","design"]}
+{"dg-publish":true,"permalink":"/notes/reading-notes/game-design-101/","tags":["reading_notes/video","gamedev/design"]}
 ---
 
 Playlist by Game Maker's Toolkit: https://www.youtube.com/playlist?list=PLc38fcMFcV_vToz9Nvc_YQTNH8hkIQ2uC

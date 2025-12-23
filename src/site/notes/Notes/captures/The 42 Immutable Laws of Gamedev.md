@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/captures/the-42-immutable-laws-of-gamedev/","tags":["gamedev","design","capture"]}
+{"dg-publish":true,"permalink":"/notes/captures/the-42-immutable-laws-of-gamedev/","tags":["capture","gamedev/design"]}
 ---
 
 By [[Paul Kilduff-Taylor\|Paul Kilduff-Taylor]]
