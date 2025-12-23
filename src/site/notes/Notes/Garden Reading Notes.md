@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/garden-reading-notes/","title":"Reading Notes"}
 ---
 
+- 🇬🇧 - [[Notes/reading notes/The Reverse Centaur’s Guide to Criticizing AI\|The Reverse Centaur’s Guide to Criticizing AI]]
 - 🇬🇧 - [[Notes/reading notes/ALUOigrice 1.3 – Stuffed Wombat\|ALUOigrice 1.3 – Stuffed Wombat]]
 - 🇫🇷 - [[Notes/reading notes/Le communisme qui vient\|Le communisme qui vient]]
 - 🇬🇧 - [[Notes/reading notes/How to find amazing game ideas\|How to find amazing game ideas]]
