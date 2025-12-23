@@ -16,8 +16,9 @@
 
 ## Design
 - 🇬🇧 - [[Notes/reading notes/Game Design 101\|Game Design 101]]
-- 🇬🇧 - [[Notes/captures/Tiny GDD\|Tiny GDD]]
+- 🇬🇧 - [[Notes/captures/The 42 Immutable Laws of Gamedev\|The 42 Immutable Laws of Gamedev]]
 - 🇬🇧 - [[Notes/captures/Rapid prototyping\|Rapid prototyping]]
+- 🇬🇧 - [[Notes/captures/Tiny GDD\|Tiny GDD]]
 
 { .block-language-dataview}
 - https://gamedesignskills.com/game-design/player-agency/?utm_source=organic&utm_medium=reddit

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/captures/tiny-gdd/","tags":["gamedev","design"]}
+{"dg-publish":true,"permalink":"/notes/captures/tiny-gdd/","tags":["gamedev","design","capture"]}
 ---
 
 Tiny nuggets of wisdom from [JJ / HotNoggin](https://hotnoggin.itch.io/)
