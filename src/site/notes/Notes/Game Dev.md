@@ -11,6 +11,7 @@
 
 ## Art
 - 🇬🇧 - [[Notes/Fonts\|Fonts]]
+- 🇬🇧 - [[Notes/Blender\|Blender]]
 
 { .block-language-dataview}
 
@@ -19,6 +20,7 @@
 - 🇬🇧 - [[Notes/captures/The 42 Immutable Laws of Gamedev\|The 42 Immutable Laws of Gamedev]]
 - 🇬🇧 - [[Notes/captures/Rapid prototyping\|Rapid prototyping]]
 - 🇬🇧 - [[Notes/captures/Tiny GDD\|Tiny GDD]]
+- 🇬🇧 - [[Notes/reading notes/Don't ship the wrong game\|Don't ship the wrong game]]
 
 { .block-language-dataview}
 - https://gamedesignskills.com/game-design/player-agency/?utm_source=organic&utm_medium=reddit

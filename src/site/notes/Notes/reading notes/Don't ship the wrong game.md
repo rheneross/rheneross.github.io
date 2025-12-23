@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/don-t-ship-the-wrong-game/","tags":["conf/gc2025","#gamedev"]}
+{"dg-publish":true,"permalink":"/notes/reading-notes/don-t-ship-the-wrong-game/","tags":["conf/gc2025","gamedev/design"]}
 ---
 
 My notes from the [talk](https://youtu.be/fKJDv8NI9T0) [René Habermann](https://bsky.app/profile/bippinbits.bsky.social) gave at GameCamp 2025.
