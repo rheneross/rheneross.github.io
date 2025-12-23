@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/","tags":["reading_notes/video","conf/addon2025"],"noteIcon":""}
 ---
 
+Mes notes sur la conférence [360 no-SCOP tips & tricks de survie en CO-OP](https://www.youtube.com/watch?v=hhdeguTChDY&list=WL&index=1) donnée par Thaïs Arias & Jean Nicolas à l'addon 2025.
+
 SCOP:
 - Une entreprise comme une autre
 - Qui a sollicité le ministère du travail pour avoir le tampon scop
