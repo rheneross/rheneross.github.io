@@ -8,4 +8,4 @@ Welcome to my garden. It's fairly new, so there's still [[Notes/Garden Todo\|muc
 
 I like to [[Notes/Game dev\|make video games]], talk about [[Notes/Economics\|Economics]], [[Ecology\|Ecology]] and [[Notes/Technology\|Technology]].
 
-You can also take a look at my [[Notes/Garden Reading Notes\|Garden Reading Notes]], they can be about something I've read, but also watched, played or listen to.
+You can also take a look at my [[Notes/Garden Reading Notes\|Reading Notes]], they can be about something I've read, but also watched, played or listen to.
