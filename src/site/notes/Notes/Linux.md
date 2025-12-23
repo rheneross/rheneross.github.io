@@ -11,3 +11,5 @@ I'm working on 3 screens, so my windows are already tilled, each of them maximiz
 The plus side of using something mainstream like KDE is that pretty much everything works out of the box.
 
 One thing I did like when trying Hyprland is having a monitor dedicated to coms, with Discord, Slack and Signal running on separate workspaces. I could switch workspaces, and thus apps, without moving my mouse.
+
+You can take a look at my [dotfiles](https://codeberg.org/rheneross/dotfiles) if you are interested.
