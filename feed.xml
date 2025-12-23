@@ -3,24 +3,38 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-23T07:25:58Z</updated>
+    <updated>2025-12-23T07:58:38Z</updated>
     <id>https://rheneross.com</id>
         <entry>
             <title>
-                Home
+                Garden Todo
                 
             </title>
-            <updated>2025-12-23T07:25:47Z</updated>
+            <updated>2025-12-23T07:58:27Z</updated>
+            <id>https://rheneross.com/notes/garden-todo/</id>
+            <content type="html">
+                &lt;p&gt;Most of my notes are not yet available, there is still a lot of seeds to sow.&lt;/p&gt;
+&lt;p&gt;There&#39;s also a lot of changes to be made to the site itself:&lt;br /&gt;
+- Change the default icon&lt;br /&gt;
+- Add a &lt;a href=&quot;https://hermitage.utsob.me/#signpost&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Signpost&lt;/a&gt; icon&lt;br /&gt;
+- Update the sidebar so it&#39;s stuck to the left: &lt;a href=&quot;https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss&lt;/a&gt;&lt;br /&gt;
+- Add a favicon&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/garden-todo/" />
+        </entry>
+        <entry>
+            <title>
+                Garden Home
+                
+            </title>
+            <updated>2025-12-23T07:58:27Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#economics&quot;&gt;#economics&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I like to &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;make video games&lt;/a&gt;, talk about &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;2&quot; href=&quot;https://rheneross.com/digital-garden/economics/&quot;&gt;Economics&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Ecology&lt;/a&gt; and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Technology&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Other stuff like&lt;/p&gt;
-&lt;p&gt;how to take notes&lt;/p&gt;
-&lt;p&gt;Reading List&lt;/p&gt;
-&lt;p&gt;Watching List&lt;/p&gt;
-&lt;p&gt;Playing List&lt;/p&gt;
+&lt;p&gt;Welcome to my garden. It&#39;s fairly new, so there&#39;s still &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/garden-todo/&quot;&gt;much to do&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I like to &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;make video games&lt;/a&gt;, talk about &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;2&quot; href=&quot;https://rheneross.com/notes/economics/&quot;&gt;Economics&lt;/a&gt;, &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Ecology&lt;/a&gt; and &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also take a look at my &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Reading Notes&lt;/a&gt;, they can be about something I&#39;ve read, but also watched, played or listen to.&lt;/p&gt;
 
             </content>
             <link href="https://rheneross.com/" />
@@ -30,13 +44,13 @@
                 Economics
                 
             </title>
-            <updated>2025-12-23T07:25:47Z</updated>
-            <id>https://rheneross.com/digital-garden/economics/</id>
+            <updated>2025-12-23T07:58:27Z</updated>
+            <id>https://rheneross.com/notes/economics/</id>
             <content type="html">
                 &lt;p&gt;I&#39;m mostly interested by how we can create more fair company structures, like cooperatives.&lt;/p&gt;
 
             </content>
-            <link href="https://rheneross.com/digital-garden/economics/" />
+            <link href="https://rheneross.com/notes/economics/" />
         </entry>
 </feed>
 
