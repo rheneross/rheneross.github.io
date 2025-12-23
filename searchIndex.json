@@ -1,7 +1,7 @@
 [
 {
 		"title": "Economics",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/economics/",
 		"content": "I'm mostly interested by how we can create more fair company structures, like cooperatives.",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Home",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Hey I’m Thibaud!\nWelcome to my garden. It's fairly new, so there's still <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/garden-todo/\">much to do</a>.\nI like to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">make video games</a>, talk about <a class=\"internal-link\" target=\"\" data-note-icon=\"2\" href=\"/notes/economics/\">Economics</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ecology</a> and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Technology</a>.\nYou can also take a look at my <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/garden-reading-notes/\">Reading Notes</a>, they can be about something I've read, but also watched, played or listen to.",
 		"tags": [ "note","gardenEntry"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Reading Notes",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/garden-reading-notes/",
 		"content": "🇫🇷 - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/\">360 no-SCOP tips &amp; tricks de survie en CO-OP</a>\n🇬🇧 - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/\">ALUOigrice 1.3 – Stuffed Wombat</a>\n🇬🇧 - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/notes/reading-notes/ask-iwata/\">Ask Iwata</a>",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Garden Todo",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/garden-todo/",
 		"content": "Most of my notes are not yet available, there is still a lot of seeds to sow.\nThere's also a lot of changes to be made to the site itself:\n- Change the default icon\n- Add a Signpost icon\n- Update the sidebar so it's stuck to the left: https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss\n- Add a favicon",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "360 no-SCOP tips & tricks de survie en CO-OP",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/",
 		"content": "Mes notes sur la conférence 360 no-SCOP tips &amp; tricks de survie en CO-OP donnée par Thaïs Arias &amp; Jean Nicolas à l'addon 2025.\nSCOP:\n\nUne entreprise comme une autre\nQui a sollicité le ministère du travail pour avoir le tampon scop\nQui s'engage à respecter des contraintes\n\nTout-e salarié-e qui demande à rejoindre le sociétariat après un certain nombre d'année d'activité est automatiquement accepté-e\nUne part des bénéfices doit être redistribuée aux réserves\nUne part des bénéfices doit être distribuée aux employé-es\nLes parts sociales sont revendues à leur prix d'achat initial\n\nQui bénéficie de quelques avantages\n\nExonération d'IS\nExonération CFE et CET\nLe chômage pour le président\n\nQui affiche des convictions dans ses status\n\n+une 7ème: &quot;Ouverture sur le monde&quot;\n\nRedistribution des bénéfices\n\nRéserve\nPart travail\n\nDistribution sous forme de salaires (primes) OU\nd'accord de participation : comptabilisation d'une réserve bloqué 5 ans\n\nAvantage salarié: net d'impots\nAvantage société: trésorerie long terme\n\nDividendes\n\nLe taux de pérennité à 5 ans est de 79% pour les coopératives contre 61% pour l'ensemble des entreprises françaises\nINSEE\n\nFinancement\n\nInterlocuteur principal\nUnion Régionale des SCOP (URSCOP)\nTransformation vs Création d'entreprise\nSeniors\n\nGestions travailleureuses\nBesoins des travailleureuses\n\nComment?\n\nSalaire unique\ntransparence sur les comptes / la gestion\n\nvulgarisation pour tout le monde\n\nPrésidence tournante\nRéunions stratégiques\n\nTous les 5-6 mois (devrait être tous les 2 mois)\nDecisions collectives stratégiques\n\n&quot;Est-ce qu'on veut faire ci/ça&quot;\n&quot;Est-ce qu'on veut lancer une deuxième ligne de prod&quot;\n\nAutonomie maximum\nprocessus collectif des décisions créatives\n\nen respectant les compétences de chacun-e\n\nréunion bien-être\n\ndiscuter tous-tes ensemble de ce qui affecte notre capacité à travailler, que ce soit en entreprise, à la maison, dans le monde, ... dans la limite de ce que chacun-e veut partager\néviter burn-out\n\nQuestions\nAides régional vs télétravail\n\nOù sont tes salariés\nOù est ton QG\n\nPourquoi si petit nombre de SCOP alors que pleins d'avantages?\n\nIl faut pouvoir payer des salaires pour une SCOP\nQuand on peut payer des salaires, beaucoup de gens hésitent à faire une scop\nCoopératives aussi très associées au modèle agricole\n\nGrève au sein d'une scop?\n-&gt; Faire grève a peu de sens : c'est faire grève contre soit-même.\n-&gt; Mais on peut faire grève en soutiens à d'autres mouvement, et se payer quand même pendant la grève.\nPlan financement SCOP\n\nSubventions\nÉditeurs\nPrêts bancaires\nVente de prestation de services",
 		"tags": [ "note","reading_notes/video","conf/addon2025"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "ALUOigrice 1.3 – Stuffed Wombat",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/",
 		"content": "This is my notes on the talk Stuffed Wombat gave at ALUOigrice.\n3 types of game designers:\nHe already talked about that in his blog\n\nExplorers\n\nLook at something really closely - Deconstruct\nLook at something from really far away - Abstract\nFind something new to look at (go outside!) - Do something new / Broaden horizons\n\nStealers\nWorkers\nUltimately, you have to do all 3\n\nI am very slow at committing to a game idea, but once I commit, I COMMIT\n\n=&gt; It's also important for collaborators, they know they can rely on you\nDevelopment process\n\nExplore\nExperiment\nExpression\nWhat do I want to say / express through this game\nIf I don't find what I want to say, I will never commit to full production\nExecution\nNow I create the game project that is going to be shipped\n\nBeginning - Making a skeleton\nMiddle - Add more and more stuff\nEnd - Cut radically\n\nExhaustion\nPost-launch depression - always happens, can be mitigated\n\nHuge anxiety &amp; fears before releasing the first games\nFor Stuffed Wombat, his creative process came from inside a protective layer:\n\nHe is now confident in his creative process, and even if it didn't work he made good connections within the game industry\nHe could always move back with his parents (what he did when starting to create games)\n=&gt; But it is still always scary. If it's not, it means it's not interesting enough\n\nFear of Failure is never to go away, even with a lot of experience\nIf he fails in his creative process, he goes back one step - it's ok to go back\nSuccess means to be exhausted.\nSuccess is releasing a game.",
 		"tags": [ "note","reading_notes/video","gamedev"]
@@ -49,7 +49,7 @@
 
 {
 		"title": "Ask Iwata",
-		"date":"Tue Dec 23 2025 09:46:48 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Dec 23 2025 09:57:54 GMT+0000 (Coordinated Universal Time)",
 		"url":"/notes/reading-notes/ask-iwata/",
 		"content": "I didn't take any notes at the start of the book, but I'm going to save some #quotes here.\n\nanother question I like to ask: &quot;Out of all the work you've done so far, what was the most interesting thing? And what was the most painful?&quot;\nAbout interviews, p.34\n\nThis quote reminds me of the concept of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Flow</a>:\n\nWhen the reward feels like it's greater than the energy and effort we've expended, we don't give up. But when the result of all our efforts is a disappointment, we tend to fail. I think these conditions are essential to making games that people want to play\np.52\n\nI've been thinking: people waste time worrying about problems that can't be solved by worrying. If worrying would solve the problem, then I'd say go ahead and worry, but somehow we can't stop ourselves even when worrying solves nothing and leaves us empty-handed.\np.62\n\nWhen I'm really hooked on something, as long as I can figure out what got me hooked, I can take that process and apply it elsewhere as a way of drumming up interest.\np.63",
 		"tags": ["quotes", "note","reading_notes/book"]
