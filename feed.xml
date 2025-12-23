@@ -3,14 +3,104 @@
     <title>Jardin d&#39;idées</title>
     <link href="https://rheneross.com/feed.xml" rel="self" />
     <link href="https://rheneross.com" />
-    <updated>2025-12-23T08:37:22Z</updated>
+    <updated>2025-12-23T09:47:05Z</updated>
     <id>https://rheneross.com</id>
+        <entry>
+            <title>
+                Ask Iwata
+                
+            </title>
+            <updated>2025-12-23T09:46:48Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/ask-iwata/</id>
+            <content type="html">
+                &lt;p&gt;I didn&#39;t take any notes at the start of the book, but I&#39;m going to save some &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#quotes&quot;&gt;#quotes&lt;/a&gt; here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;another question I like to ask: &amp;quot;Out of all the work you&#39;ve done so far, what was the most interesting thing? And what was the most painful?&amp;quot;&lt;br /&gt;
+About interviews, p.34&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This quote reminds me of the concept of &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://rheneross.com/404&quot; target=&quot;&quot;&gt;Flow&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When the reward feels like it&#39;s greater than the energy and effort we&#39;ve expended, we don&#39;t give up. But when the result of all our efforts is a disappointment, we tend to fail. I think these conditions are essential to making games that people want to play&lt;br /&gt;
+p.52&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&#39;ve been thinking: people waste time worrying about problems that can&#39;t be solved by worrying. If worrying would solve the problem, then I&#39;d say go ahead and worry, but somehow we can&#39;t stop ourselves even when worrying solves nothing and leaves us empty-handed.&lt;br /&gt;
+p.62&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I&#39;m really hooked on something, as long as I can figure out what got me hooked, I can take that process and apply it elsewhere as a way of drumming up interest.&lt;br /&gt;
+p.63&lt;/p&gt;
+&lt;/blockquote&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/ask-iwata/" />
+        </entry>
+        <entry>
+            <title>
+                ALUOigrice 1.3 – Stuffed Wombat
+                
+            </title>
+            <updated>2025-12-23T09:46:48Z</updated>
+            <id>https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/</id>
+            <content type="html">
+                &lt;p&gt;This is my notes on the &lt;a href=&quot;https://www.youtube.com/watch?v=b0E4z56vhOc&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;talk&lt;/a&gt; &lt;a href=&quot;https://bsky.app/profile/stuffedwomb.at&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Stuffed Wombat&lt;/a&gt; gave at ALUOigrice.&lt;/p&gt;
+&lt;p&gt;3 types of game designers:&lt;br /&gt;
+&lt;a href=&quot;https://stuffedwomb.at/threeways&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;He already talked about that in his blog&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explorers
+&lt;ol&gt;
+&lt;li&gt;Look at something really closely - Deconstruct&lt;/li&gt;
+&lt;li&gt;Look at something from really far away - Abstract&lt;/li&gt;
+&lt;li&gt;Find something new to look at (go outside!) - Do something new / Broaden horizons&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Stealers&lt;/li&gt;
+&lt;li&gt;Workers&lt;br /&gt;
+Ultimately, you have to do all 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am very slow at committing to a game idea, but once I commit, I COMMIT&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;=&amp;gt; It&#39;s also important for collaborators, they know they can rely on you&lt;/p&gt;
+&lt;p&gt;Development process&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explore&lt;/li&gt;
+&lt;li&gt;Experiment&lt;/li&gt;
+&lt;li&gt;Expression&lt;br /&gt;
+What do I want to say / express through this game&lt;br /&gt;
+If I don&#39;t find what I want to say, I will never commit to full production&lt;/li&gt;
+&lt;li&gt;Execution&lt;br /&gt;
+Now I create the game project that is going to be shipped
+&lt;ol&gt;
+&lt;li&gt;Beginning - Making a skeleton&lt;/li&gt;
+&lt;li&gt;Middle - Add more and more stuff&lt;/li&gt;
+&lt;li&gt;End - Cut radically&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Exhaustion&lt;br /&gt;
+Post-launch depression - always happens, can be mitigated&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Huge anxiety &amp;amp; fears before releasing the first games&lt;/p&gt;
+&lt;p&gt;For Stuffed Wombat, his creative process came from inside a protective layer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;He is now confident in his creative process, and even if it didn&#39;t work he made good connections within the game industry&lt;/li&gt;
+&lt;li&gt;He could always move back with his parents (what he did when starting to create games)&lt;br /&gt;
+=&amp;gt; But it is still always scary. If it&#39;s not, it means it&#39;s not interesting enough&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Fear of Failure is never to go away, even with a lot of experience&lt;/p&gt;
+&lt;p&gt;If he fails in his creative process, he goes back one step - it&#39;s ok to go back&lt;/p&gt;
+&lt;p&gt;Success means to be exhausted.&lt;br /&gt;
+Success is releasing a game.&lt;/p&gt;
+
+            </content>
+            <link href="https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/" />
+        </entry>
         <entry>
             <title>
                 360 no-SCOP tips &amp; tricks de survie en CO-OP
                 
             </title>
-            <updated>2025-12-23T08:37:11Z</updated>
+            <updated>2025-12-23T09:46:48Z</updated>
             <id>https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/</id>
             <content type="html">
                 &lt;p&gt;Mes notes sur la conférence &lt;a href=&quot;https://www.youtube.com/watch?v=hhdeguTChDY&amp;amp;list=WL&amp;amp;index=1&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt; donnée par Thaïs Arias &amp;amp; Jean Nicolas à l&#39;addon 2025.&lt;/p&gt;
@@ -132,7 +222,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Todo
                 
             </title>
-            <updated>2025-12-23T08:37:11Z</updated>
+            <updated>2025-12-23T09:46:48Z</updated>
             <id>https://rheneross.com/notes/garden-todo/</id>
             <content type="html">
                 &lt;p&gt;Most of my notes are not yet available, there is still a lot of seeds to sow.&lt;/p&gt;
@@ -150,11 +240,13 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Reading Notes
                 
             </title>
-            <updated>2025-12-23T08:37:11Z</updated>
+            <updated>2025-12-23T09:46:48Z</updated>
             <id>https://rheneross.com/notes/garden-reading-notes/</id>
             <content type="html">
                 &lt;ul class=&quot;block-language-dataview&quot;&gt;
 &lt;li&gt;🇫🇷 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/360-no-scop-tips-and-tricks-de-survie-en-co-op/&quot;&gt;360 no-SCOP tips &amp;amp; tricks de survie en CO-OP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/alu-oigrice-1-3-stuffed-wombat/&quot;&gt;ALUOigrice 1.3 – Stuffed Wombat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🇬🇧 - &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://rheneross.com/notes/reading-notes/ask-iwata/&quot;&gt;Ask Iwata&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
@@ -165,7 +257,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Garden Home
                 
             </title>
-            <updated>2025-12-23T08:37:11Z</updated>
+            <updated>2025-12-23T09:46:48Z</updated>
             <id>https://rheneross.com/</id>
             <content type="html">
                 &lt;p&gt;Hey I’m Thibaud!&lt;/p&gt;
@@ -181,7 +273,7 @@ Coopératives aussi très associées au modèle agricole&lt;/li&gt;
                 Economics
                 
             </title>
-            <updated>2025-12-23T08:37:11Z</updated>
+            <updated>2025-12-23T09:46:48Z</updated>
             <id>https://rheneross.com/notes/economics/</id>
             <content type="html">
                 &lt;p&gt;I&#39;m mostly interested by how we can create more fair company structures, like cooperatives.&lt;/p&gt;
