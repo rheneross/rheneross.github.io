@@ -33,6 +33,11 @@ And, even if you did, it will not resonate as much with the audience you are try
 > And a space, a story, an experience crafted by an unfathomable artificial intelligence, owned by corporations who only value shareholder value. This isn't safe, this isn't an escape where we are in control. Its the same fucking reality we already live in. 
 > [Tomas Sala](https://bsky.app/profile/falconeerdev.bsky.social) - [A Bluesky thread about GenAI in Games](https://bsky.app/profile/falconeerdev.bsky.social/post/3lpvidz5suc2r)
 
+> Essentially, I think that LLM-generated dialogue only makes sense if you believe that the product of writing is words.
+> 
+> But the product of writing isn't words, any more than the product of justice is prisoners, or the product of love is weddings. The product of writing is meaning.
+> [Chris Gardiner](https://bsky.app/profile/chrisgardiner.bsky.social) - https://bsky.app/profile/chrisgardiner.bsky.social/post/3maogza2cic2s
+
 I read on reddit that GenAI works like artists: it steal from other artists. Except artist don't "Steal": They study, imitate and take inspirations from the work and the techniques of others, view through their own eyes, through their own prisme of experiences.
 
 GenAI is straight up spewing the most probable thing another artist (or worst, an average of other artists) will have done.

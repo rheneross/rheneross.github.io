@@ -11,9 +11,9 @@
 - 🇫🇷 - [[Notes/reading notes/LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles\|LA FERME 100% AUTONOME en EAU, VIANDE, LÉGUMES, plantes aromatiques et perpétuelles]]
 - 🇬🇧 - [[Notes/reading notes/How to find amazing game ideas\|How to find amazing game ideas]]
 - 🇬🇧 - [[Notes/reading notes/How Xalavier Nelson does it\|How Xalavier Nelson does it]]
+- 🇬🇧 - [[Notes/reading notes/Game Design 101\|Game Design 101]]
 - 🇬🇧 - [[Notes/reading notes/Ask Iwata\|Ask Iwata]]
 - 🇬🇧 - [[Notes/reading notes/ALUOigrice 1.3 – Stuffed Wombat\|ALUOigrice 1.3 – Stuffed Wombat]]
 - 🇫🇷 - [[Notes/reading notes/360 no-SCOP tips & tricks de survie en CO-OP\|360 no-SCOP tips & tricks de survie en CO-OP]]
-- 🇬🇧 - [[Notes/reading notes/Game Design 101\|Game Design 101]]
 
 { .block-language-dataview}

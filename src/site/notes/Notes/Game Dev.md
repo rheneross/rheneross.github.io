@@ -3,8 +3,8 @@
 ---
 
 ## Tech
-- 🇬🇧 - [[Notes/Godot, FuncGodot and Trenchbroom\|Godot, FuncGodot and Trenchbroom]]
 - 🇬🇧 - [[Notes/Godot\|Godot]]
+- 🇬🇧 - [[Notes/Godot, FuncGodot and Trenchbroom\|Godot, FuncGodot and Trenchbroom]]
 
 { .block-language-dataview}
 - https://github.com/codecrafters-io/build-your-own-x
@@ -17,10 +17,10 @@
 
 ## Design
 - 🇬🇧 - [[Notes/reading notes/Game Design 101\|Game Design 101]]
+- 🇬🇧 - [[Notes/reading notes/Don't ship the wrong game\|Don't ship the wrong game]]
+- 🇬🇧 - [[Notes/captures/Tiny GDD\|Tiny GDD]]
 - 🇬🇧 - [[Notes/captures/The 42 Immutable Laws of Gamedev\|The 42 Immutable Laws of Gamedev]]
 - 🇬🇧 - [[Notes/captures/Rapid prototyping\|Rapid prototyping]]
-- 🇬🇧 - [[Notes/captures/Tiny GDD\|Tiny GDD]]
-- 🇬🇧 - [[Notes/reading notes/Don't ship the wrong game\|Don't ship the wrong game]]
 
 { .block-language-dataview}
 - https://gamedesignskills.com/game-design/player-agency/?utm_source=organic&utm_medium=reddit
