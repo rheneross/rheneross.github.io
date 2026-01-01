@@ -11,3 +11,4 @@ There's also a lot of changes to be made to the site itself:
 	- Update the sidebar so it's stuck to the left: https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss
 	- Add a favicon
 	- Add comments: https://dg-docs.ole.dev/advanced/guides-and-how-tos/adding-comments/
+	- add a last updated page
