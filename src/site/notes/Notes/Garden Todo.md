@@ -9,6 +9,6 @@ There's also a lot of changes to be made to the site itself:
 	- Add a [Signpost](https://hermitage.utsob.me/#signpost) icon
 		- Also make signpost page with dataview like the one I did for [[Notes/Garden Reading Notes\|Reading Notes]]
 	- Update the sidebar so it's stuck to the left: https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss
-	- Add a favicon
 	- Add comments: https://dg-docs.ole.dev/advanced/guides-and-how-tos/adding-comments/
 	- add a last updated page
+	- some images for reading notes
