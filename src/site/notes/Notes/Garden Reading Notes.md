@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/garden-reading-notes/","title":"Reading Notes"}
 ---
 
+- 🇫🇷 - [[Notes/reading notes/Faire de la place\|Faire de la place]]
 - 🇫🇷 - [[Notes/reading notes/Saint Luigi\|Saint Luigi]]
 - 🇬🇧 - [[Notes/reading notes/The Reverse Centaur’s Guide to Criticizing AI\|The Reverse Centaur’s Guide to Criticizing AI]]
 - 🇬🇧 - [[Notes/reading notes/Validating Your Game Design\|Validating Your Game Design]]
