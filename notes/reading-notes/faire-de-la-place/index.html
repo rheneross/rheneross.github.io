@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Rapid prototyping</title>
+<title>Faire de la place</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -71,42 +71,36 @@
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,s=arguments,a=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,s)}),t),a&&e.apply(i,s)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘K"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const s=Math.max(0,i-50),a=Math.min(r.length,s+n);let c=r.substring(s,a);return s>0&&(c="..."+c),a<r.length&&(c+="..."),c}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),s=i?i.innerHTML:"";return previewCache.set(e,s),s}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),s=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const a=document.querySelector(`.searchresult[data-index="${e}"]`);a&&a.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),s.style.display="none";const c=await fetchPreviewContent(n.url),o=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${o}\n            <div class="preview-body">${c}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-01-29T17:53:54.779Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="",hidePreview(),void(t&&t.classList.add("no-preview"));if(e===lastSearch)return;window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),s=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${s}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1 data-note-icon="">Rapid prototyping</h1>
+<h1 data-note-icon="">Faire de la place</h1>
 <div class="header-meta">
 </div>
 </header>
-<p>Captured from: <a href="https://www.linkedin.com/posts/alexander-brazie_it-took-me-3-years-to-admit-failure-with-activity-7165450119251779584-mxjv?utm_source=share&amp;utm_medium=member_desktop" target="_blank" class="external-link">https://www.linkedin.com/posts/alexander-brazie_it-took-me-3-years-to-admit-failure-with-activity-7165450119251779584-mxjv?utm_source=share&amp;utm_medium=member_desktop</a></p>
+<p>C'est un petit manuel de survie au capitalisme, vu par le prisme de l'encombrement de nos maisons d'abord, et puis, surtout, de celui de nos esprits et de nos vies.<br>
+Une plaidoirie pour se réapproprier notre temps, lentement, nos gestes, nos relations, nos vies.</p>
 <blockquote>
-<p>It took me 3 years to admit failure with my first.<br>
-It took me 1 year to realize the game concept I had was built wrong and couldn’t ship.<br>
-Now, I can build prototypes in 3-6 months to evaluate if an idea is worth exploring.<br>
-Here’s the framework I use:👇</p>
-<p>First: What is the dirtiest, quickest path to evaluating the idea?<br>
-Next: &quot;Does 10% more effort in a specific way dramatically improve the test quality?&quot;</p>
-<ul>
-<li>When building a single-player game concepts, it doesn’t matter which game engine you use, as long as you can prototype quickly.</li>
-<li>When building a competitive, real-time multiplayer game, prototyping locally can be problematic. Switching to the architecture required for effective playtesting later is 10x more costly.</li>
-<li>Investing extra time initially to learn the correct approach helps avoid common bugs later.</li>
-</ul>
-<p>Once the tech is sorted, do the same with the art:<br>
-Ask First - &quot;How can we communicate clearly with a minimum amount of investment?&quot;</p>
-<ul>
-<li>Simple shapes, a simple environment, and colored flashes might be enough.<br>
-Ask Next - &quot;Does 10% more effect in a specific way dramatically level up the test quality?&quot;</li>
-<li>Making a colored cube wobble, jiggle and flash doesn’t take a lot of work, but dramatically levels up the prototype quality.</li>
-</ul>
-<p>You can see an amazing example of this type of thinking over here:<br>
-<a href="https://buff.ly/3T3LNnG" target="_blank" class="external-link">https://buff.ly/3T3LNnG</a></p>
-<p>Jakob gets a lot of mileage out of a minimum of assets.</p>
-<p>If something doesn’t work out?</p>
-<p>No big deal, you didn’t waste the hearts, souls, and passions of your team.</p>
-<p>That said, it can be INCREDIBLY hard when you have talented people around and not use their skills to the fullest extent.</p>
-<p>This is why working with senior developers is a completely different experience than working with juniors.</p>
-<p>Because senior developers have (hopefully) come to peace with their skill in their craft, they can focus on just doing the essential to validate your hypothesis:</p>
-<p>Is this fun?</p>
-<p>Be the Funsmith, not the pixel pusher.</p>
-<p>Caveat: Some games won’t really deliver on the experience without clearly communicated animations, timing and visuals. Elden Ring, for example, wouldn’t work with Minecraft-style animations.</p>
-<p>Act wisely.</p>
+<p>Si la sensation d'encombrement a été une problématique personnelle depuis mon enfance, elle est, évidemment, très partagée chez les habitant-es d'un des pays les plus riches de la planète, qui fonde son système économique et social sur la croissance, c'est-à-dire sur la production infinie de biens et services.</p>
+</blockquote>
+<blockquote>
+<p>La sensation d'encombrement mental, cette impression de ne plus savoir où donner de la tête, d'étouffer, de crou-ler, est presque devenue notre norme d'existence. À moins de faire des choix vraiment alternatifs et radicaux, nous ne pouvons pas vraiment échapper à ce rythme. On peut se jouer des tours à soi-même; couper son téléphone une heure pour se concentrer, aller marcher quelques jours, se couper des réseaux pendant nos vacances, mais ces petites actions témoignent de notre agitation plus qu'elles ne la règlent.</p>
+</blockquote>
+<blockquote>
+<p>S'autoriser à se dire qu'on peut vivre selon ses rêves, c'est souvent un privilège de classe, de genre, de race, dont d'ailleurs celles et ceux qui bénéficient ont en général très peu conscience.</p>
+</blockquote>
+<blockquote>
+<p>Si l'on pense comme moi que les mots sont des actes, alors on doit tenir les auteurs pour responsables des effets de leurs écrits.<br>
+<a class="internal-link is-unresolved" href="/404" target="">Ursula Le Guin</a> - Danser au bord du monde</p>
+</blockquote>
+<blockquote>
+<p>Quand je suis enthousiaste et disponible, certes, cela ne change pas l'état de la planète, mais a minima, j'ai moins de chance de nuire à celles et ceux qui sont autour de moi, et de proche en proche ça fait vite du monde.<br>
+[...]<br>
+Et puis: si chez moi, c'est le brol, au sens propre comme au sens figure, si je croule sous des montagnes qui m'étouffent et me mettent en agitation, en colère, en tension, aucune chance que je puisse aller aider qui que ce soit, me rendre disponible à autrui, m'engager pour une cause qui me tient à cœur. L'articulation entre individuel et collectif est un sujet complexe, mais je crois que les deux pôles ne s'excluent pas l'un l'autre. L'encombrement nous poursuit, nous pèse, nous retient, nous empêche. <strong>Nous désencombrer libère de l'espace, pour nos relations, pour nos communautés, pour nos engagements.</strong></p>
+</blockquote>
+<blockquote>
+<p>L'obsession du rangement peut être une procrastination de plus, le reflet d'une agitation mentale à son maximum: <strong>la seule manière de se calmer, c'est de ranger quelque chose «dans la matière», puisqu'on n'arrive pas à «ranger» ses émotions ou ses pensées</strong></p>
+</blockquote>
+<p>À propos de la direction capitaliste de notre système :</p>
+<blockquote>
+<p>C'est parce que cette direction présente un certain nombre d'avantages énormes pour une toute minuscule partie d'entre nous, que ces derniers ont tout intérêt à la présenter comme une fatalité. Et donc à nous maintenir dans un état de fatigue et d'anxiété permanent.</p>
 </blockquote>
 </main>
 <aside>
@@ -142,7 +136,7 @@ Ask Next - &quot;Does 10% more effect in a specific way dramatically level up th
 </div>
 <div class="backlinks">
 <div class="backlink-title">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i data-lucide="link"></i><a href="/notes/game-dev/" data-note-icon="" class="backlink">Game Dev</a>
+<div class="backlink-list"><div class="backlink-card"><i data-lucide="link"></i><a href="/notes/garden-reading-notes/" data-note-icon="" class="backlink">Reading Notes</a>
 </div></div>
 </div>
 </div>
