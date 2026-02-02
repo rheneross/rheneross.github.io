@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/faire-de-la-place/","tags":["reading_notes/book"]}
+{"dg-publish":true,"permalink":"/notes/reading-notes/faire-de-la-place/","tags":["reading_notes/book","society"]}
 ---
 
 C'est un petit manuel de survie au capitalisme, vu par le prisme de l'encombrement de nos maisons d'abord, et puis, surtout, de celui de nos esprits et de nos vies.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reading-notes/le-communisme-qui-vient/","tags":["reading_notes/book","société","#economics"]}
+{"dg-publish":true,"permalink":"/notes/reading-notes/le-communisme-qui-vient/","tags":["reading_notes/book","#economics","society"]}
 ---
 
 De Bernard Friot et Bernard Vasseur
