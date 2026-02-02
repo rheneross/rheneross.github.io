@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/garden-reading-notes/","title":"Reading Notes"}
+{"dg-publish":true,"permalink":"/notes/garden-reading-notes/","title":"Notes"}
 ---
 
 - 🇫🇷 - [[Notes/reading notes/Faire de la place\|Faire de la place]]
