@@ -71,3 +71,10 @@ This chords are often used as transitions as well.
 Chord II should be minor -> switch to the corresponding major chord
 #### Minor IV and V Chords
 Chord IV or V should be major -> switch to the corresponding minor chord
+#### Major VI Chord
+
+#### Major III Chord
+
+### Dressing Chords
+- Playing root note some octaves lower
+- Adding 7th note down
